@@ -1,0 +1,3996 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1158.774362pt" height="640.623268pt" viewBox="0 0 1158.774362 640.623268" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-05-07T21:27:51.581637</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 640.623268 
+L 1158.774362 640.623268 
+L 1158.774362 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 59.300147 568.659728 
+L 1023.098397 568.659728 
+L 1023.098397 41.754687 
+L 59.300147 41.754687 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 59.300147 568.659728 
+L 59.300147 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m7297a43ef3" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7297a43ef3" x="59.300147" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 2024-02-01 -->
+      <g transform="translate(10.98125 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <defs>
+        <path id="SimHei-32" d="M 300 250 
+Q 325 625 650 925 
+Q 975 1225 1475 1862 
+Q 1975 2500 2125 2850 
+Q 2275 3200 2237 3450 
+Q 2200 3700 2000 3862 
+Q 1800 4025 1537 4000 
+Q 1275 3975 1037 3800 
+Q 800 3625 675 3275 
+L 200 3350 
+Q 400 3925 712 4187 
+Q 1025 4450 1450 4475 
+Q 1700 4500 1900 4462 
+Q 2100 4425 2312 4287 
+Q 2525 4150 2662 3875 
+Q 2800 3600 2762 3212 
+Q 2725 2825 2375 2287 
+Q 2025 1750 1025 600 
+L 2825 600 
+L 2825 150 
+L 300 150 
+L 300 250 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimHei-30" d="M 225 2537 
+Q 250 3200 412 3587 
+Q 575 3975 875 4225 
+Q 1175 4475 1612 4475 
+Q 2050 4475 2375 4112 
+Q 2700 3750 2800 3200 
+Q 2900 2650 2862 1937 
+Q 2825 1225 2612 775 
+Q 2400 325 1975 150 
+Q 1550 -25 1125 187 
+Q 700 400 525 750 
+Q 350 1100 275 1487 
+Q 200 1875 225 2537 
+z
+M 750 2687 
+Q 675 2000 800 1462 
+Q 925 925 1212 700 
+Q 1500 475 1800 612 
+Q 2100 750 2237 1162 
+Q 2375 1575 2375 2062 
+Q 2375 2550 2337 2950 
+Q 2300 3350 2112 3675 
+Q 1925 4000 1612 4012 
+Q 1300 4025 1062 3700 
+Q 825 3375 750 2687 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimHei-34" d="M 2000 1100 
+L 75 1100 
+L 75 1525 
+L 2100 4450 
+L 2475 4450 
+L 2475 1525 
+L 3075 1525 
+L 3075 1100 
+L 2475 1100 
+L 2475 150 
+L 2000 150 
+L 2000 1100 
+z
+M 2000 1525 
+L 2000 3500 
+L 600 1525 
+L 2000 1525 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimHei-2d" d="M 2975 2125 
+L 125 2125 
+L 125 2525 
+L 2975 2525 
+L 2975 2125 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimHei-31" d="M 1400 3600 
+Q 1075 3275 575 2975 
+L 575 3450 
+Q 1200 3875 1600 4450 
+L 1900 4450 
+L 1900 150 
+L 1400 150 
+L 1400 3600 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-32" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 125.220311 568.659728 
+L 125.220311 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="125.220311" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 2024-03-01 -->
+      <g transform="translate(76.901413 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <defs>
+        <path id="SimHei-33" d="M 250 1225 
+L 700 1300 
+Q 800 975 1025 762 
+Q 1250 550 1587 562 
+Q 1925 575 2125 837 
+Q 2325 1100 2300 1437 
+Q 2275 1775 2037 1962 
+Q 1800 2150 1275 2225 
+L 1275 2550 
+Q 1800 2600 2037 2825 
+Q 2275 3050 2250 3412 
+Q 2225 3775 1925 3937 
+Q 1625 4100 1287 3975 
+Q 950 3850 750 3275 
+L 300 3350 
+Q 450 3800 712 4100 
+Q 975 4400 1425 4450 
+Q 1875 4500 2212 4337 
+Q 2550 4175 2687 3837 
+Q 2825 3500 2725 3100 
+Q 2625 2700 2150 2400 
+Q 2500 2250 2687 1950 
+Q 2875 1650 2812 1162 
+Q 2750 675 2375 375 
+Q 2000 75 1525 87 
+Q 1050 100 700 387 
+Q 350 675 250 1225 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-33" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 195.686692 568.659728 
+L 195.686692 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="195.686692" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 2024-04-01 -->
+      <g transform="translate(147.367795 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-34" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 263.879964 568.659728 
+L 263.879964 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="263.879964" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 2024-05-01 -->
+      <g transform="translate(215.561067 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <defs>
+        <path id="SimHei-35" d="M 550 1325 
+Q 725 650 1150 575 
+Q 1575 500 1837 662 
+Q 2100 825 2212 1087 
+Q 2325 1350 2312 1675 
+Q 2300 2000 2137 2225 
+Q 1975 2450 1725 2525 
+Q 1475 2600 1162 2525 
+Q 850 2450 650 2175 
+L 225 2225 
+Q 275 2375 700 4375 
+L 2675 4375 
+L 2675 3925 
+L 1075 3925 
+Q 950 3250 825 2850 
+Q 1200 3025 1525 3012 
+Q 1850 3000 2150 2862 
+Q 2450 2725 2587 2487 
+Q 2725 2250 2787 2012 
+Q 2850 1775 2837 1500 
+Q 2825 1225 2725 937 
+Q 2625 650 2425 462 
+Q 2225 275 1937 162 
+Q 1650 50 1275 75 
+Q 900 100 562 350 
+Q 225 600 100 1200 
+L 550 1325 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-35" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 334.346346 568.659728 
+L 334.346346 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="334.346346" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 2024-06-01 -->
+      <g transform="translate(286.027449 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <defs>
+        <path id="SimHei-36" d="M 250 1612 
+Q 275 1975 387 2225 
+Q 500 2475 725 2850 
+L 1750 4450 
+L 2325 4450 
+L 1275 2800 
+Q 1950 2975 2350 2750 
+Q 2750 2525 2887 2237 
+Q 3025 1950 3037 1612 
+Q 3050 1275 2937 950 
+Q 2825 625 2537 362 
+Q 2250 100 1737 75 
+Q 1225 50 862 262 
+Q 500 475 362 862 
+Q 225 1250 250 1612 
+z
+M 1025 787 
+Q 1250 550 1625 525 
+Q 2000 500 2250 775 
+Q 2500 1050 2500 1575 
+Q 2500 2100 2187 2300 
+Q 1875 2500 1487 2450 
+Q 1100 2400 925 2075 
+Q 750 1750 775 1387 
+Q 800 1025 1025 787 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-36" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 402.539618 568.659728 
+L 402.539618 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="402.539618" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 2024-07-01 -->
+      <g transform="translate(354.220721 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <defs>
+        <path id="SimHei-37" d="M 850 150 
+Q 1300 2050 2425 3925 
+L 275 3925 
+L 275 4375 
+L 2950 4375 
+L 2950 3950 
+Q 1775 2050 1400 150 
+L 850 150 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-37" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 473.006 568.659728 
+L 473.006 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="473.006" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 2024-08-01 -->
+      <g transform="translate(424.687103 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <defs>
+        <path id="SimHei-38" d="M 175 1375 
+Q 175 1675 325 1962 
+Q 475 2250 825 2425 
+Q 525 2600 425 2812 
+Q 325 3025 312 3300 
+Q 300 3575 387 3775 
+Q 475 3975 650 4150 
+Q 825 4325 1037 4387 
+Q 1250 4450 1500 4450 
+Q 1750 4450 1950 4400 
+Q 2150 4350 2375 4187 
+Q 2600 4025 2700 3725 
+Q 2800 3425 2687 3025 
+Q 2575 2625 2100 2400 
+Q 2525 2275 2700 2012 
+Q 2875 1750 2875 1375 
+Q 2875 1000 2762 775 
+Q 2650 550 2512 400 
+Q 2375 250 2137 162 
+Q 1900 75 1537 75 
+Q 1175 75 912 162 
+Q 650 250 475 425 
+Q 300 600 237 837 
+Q 175 1075 175 1375 
+z
+M 687 1400 
+Q 675 1100 787 875 
+Q 900 650 1200 587 
+Q 1500 525 1825 600 
+Q 2150 675 2275 950 
+Q 2400 1225 2362 1500 
+Q 2325 1775 2050 1962 
+Q 1775 2150 1450 2125 
+Q 1125 2100 912 1900 
+Q 700 1700 687 1400 
+z
+M 775 3350 
+Q 775 3100 950 2875 
+Q 1125 2650 1500 2650 
+Q 1875 2650 2062 2875 
+Q 2250 3100 2237 3412 
+Q 2225 3725 2012 3875 
+Q 1800 4025 1437 4000 
+Q 1075 3975 925 3787 
+Q 775 3600 775 3350 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-38" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 543.472381 568.659728 
+L 543.472381 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="543.472381" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 2024-09-01 -->
+      <g transform="translate(495.153484 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <defs>
+        <path id="SimHei-39" d="M 800 75 
+Q 1350 1000 1700 1750 
+Q 1075 1650 662 1912 
+Q 250 2175 162 2625 
+Q 75 3075 175 3437 
+Q 275 3800 487 4037 
+Q 700 4275 1000 4375 
+Q 1300 4475 1537 4475 
+Q 1775 4475 2025 4375 
+Q 2275 4275 2475 4075 
+Q 2675 3875 2750 3662 
+Q 2825 3450 2825 3112 
+Q 2825 2775 2575 2250 
+Q 2325 1725 1350 75 
+L 800 75 
+z
+M 662 2875 
+Q 700 2550 937 2337 
+Q 1175 2125 1450 2150 
+Q 1725 2175 1887 2300 
+Q 2050 2425 2200 2725 
+Q 2300 3100 2250 3362 
+Q 2200 3625 1987 3800 
+Q 1775 3975 1525 3975 
+Q 1375 4000 1137 3900 
+Q 900 3800 762 3500 
+Q 625 3200 662 2875 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-39" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 611.665654 568.659728 
+L 611.665654 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="611.665654" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 2024-10-01 -->
+      <g transform="translate(563.346756 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-31" x="250"/>
+       <use xlink:href="#SimHei-30" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_19">
+      <path d="M 682.132035 568.659728 
+L 682.132035 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="682.132035" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 2024-11-01 -->
+      <g transform="translate(633.813138 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-31" x="250"/>
+       <use xlink:href="#SimHei-31" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_21">
+      <path d="M 750.325308 568.659728 
+L 750.325308 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="750.325308" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 2024-12-01 -->
+      <g transform="translate(702.00641 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-34" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-31" x="250"/>
+       <use xlink:href="#SimHei-32" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_23">
+      <path d="M 820.791689 568.659728 
+L 820.791689 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="820.791689" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 2025-01-01 -->
+      <g transform="translate(772.472792 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-35" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-31" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_25">
+      <path d="M 891.258071 568.659728 
+L 891.258071 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="891.258071" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 2025-02-01 -->
+      <g transform="translate(842.939173 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-35" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-32" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_27">
+      <path d="M 954.905125 568.659728 
+L 954.905125 41.754687 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m7297a43ef3" x="954.905125" y="568.659728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 2025-03-01 -->
+      <g transform="translate(906.586228 609.709045) rotate(-30) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+       <use xlink:href="#SimHei-35" x="150"/>
+       <use xlink:href="#SimHei-2d" x="200"/>
+       <use xlink:href="#SimHei-30" x="250"/>
+       <use xlink:href="#SimHei-33" x="300"/>
+       <use xlink:href="#SimHei-2d" x="350"/>
+       <use xlink:href="#SimHei-30" x="400"/>
+       <use xlink:href="#SimHei-31" x="450"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_29">
+      <defs>
+       <path id="md744665823" d="M 0 0 
+L 0 2 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#md744665823" x="70.665693" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#md744665823" x="86.577456" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#md744665823" x="102.48922" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#md744665823" x="118.400983" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#md744665823" x="134.312747" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#md744665823" x="150.22451" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#md744665823" x="166.136274" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#md744665823" x="182.048038" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#md744665823" x="197.959801" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#md744665823" x="213.871565" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#md744665823" x="229.783328" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#md744665823" x="245.695092" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#md744665823" x="261.606855" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#md744665823" x="277.518619" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_29">
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#md744665823" x="293.430382" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#md744665823" x="309.342146" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_31">
+     <g id="line2d_45">
+      <g>
+       <use xlink:href="#md744665823" x="325.25391" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#md744665823" x="341.165673" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#md744665823" x="357.077437" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#md744665823" x="372.9892" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_35">
+     <g id="line2d_49">
+      <g>
+       <use xlink:href="#md744665823" x="388.900964" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#md744665823" x="404.812727" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_37">
+     <g id="line2d_51">
+      <g>
+       <use xlink:href="#md744665823" x="420.724491" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_38">
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#md744665823" x="436.636255" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_39">
+     <g id="line2d_53">
+      <g>
+       <use xlink:href="#md744665823" x="452.548018" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_40">
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#md744665823" x="468.459782" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_41">
+     <g id="line2d_55">
+      <g>
+       <use xlink:href="#md744665823" x="484.371545" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_42">
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#md744665823" x="500.283309" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_43">
+     <g id="line2d_57">
+      <g>
+       <use xlink:href="#md744665823" x="516.195072" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_44">
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#md744665823" x="532.106836" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_45">
+     <g id="line2d_59">
+      <g>
+       <use xlink:href="#md744665823" x="548.018599" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_46">
+     <g id="line2d_60">
+      <g>
+       <use xlink:href="#md744665823" x="563.930363" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_47">
+     <g id="line2d_61">
+      <g>
+       <use xlink:href="#md744665823" x="579.842127" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_48">
+     <g id="line2d_62">
+      <g>
+       <use xlink:href="#md744665823" x="595.75389" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_49">
+     <g id="line2d_63">
+      <g>
+       <use xlink:href="#md744665823" x="627.577417" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_50">
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#md744665823" x="643.489181" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_51">
+     <g id="line2d_65">
+      <g>
+       <use xlink:href="#md744665823" x="659.400944" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_52">
+     <g id="line2d_66">
+      <g>
+       <use xlink:href="#md744665823" x="675.312708" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_53">
+     <g id="line2d_67">
+      <g>
+       <use xlink:href="#md744665823" x="691.224472" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_54">
+     <g id="line2d_68">
+      <g>
+       <use xlink:href="#md744665823" x="707.136235" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_55">
+     <g id="line2d_69">
+      <g>
+       <use xlink:href="#md744665823" x="723.047999" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_56">
+     <g id="line2d_70">
+      <g>
+       <use xlink:href="#md744665823" x="738.959762" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_57">
+     <g id="line2d_71">
+      <g>
+       <use xlink:href="#md744665823" x="754.871526" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_58">
+     <g id="line2d_72">
+      <g>
+       <use xlink:href="#md744665823" x="770.783289" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_59">
+     <g id="line2d_73">
+      <g>
+       <use xlink:href="#md744665823" x="786.695053" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_60">
+     <g id="line2d_74">
+      <g>
+       <use xlink:href="#md744665823" x="802.606816" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_61">
+     <g id="line2d_75">
+      <g>
+       <use xlink:href="#md744665823" x="818.51858" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_62">
+     <g id="line2d_76">
+      <g>
+       <use xlink:href="#md744665823" x="834.430344" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_63">
+     <g id="line2d_77">
+      <g>
+       <use xlink:href="#md744665823" x="850.342107" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_64">
+     <g id="line2d_78">
+      <g>
+       <use xlink:href="#md744665823" x="866.253871" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_65">
+     <g id="line2d_79">
+      <g>
+       <use xlink:href="#md744665823" x="882.165634" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_66">
+     <g id="line2d_80">
+      <g>
+       <use xlink:href="#md744665823" x="898.077398" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_67">
+     <g id="line2d_81">
+      <g>
+       <use xlink:href="#md744665823" x="913.989161" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_68">
+     <g id="line2d_82">
+      <g>
+       <use xlink:href="#md744665823" x="929.900925" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_69">
+     <g id="line2d_83">
+      <g>
+       <use xlink:href="#md744665823" x="945.812688" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_70">
+     <g id="line2d_84">
+      <g>
+       <use xlink:href="#md744665823" x="961.724452" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_71">
+     <g id="line2d_85">
+      <g>
+       <use xlink:href="#md744665823" x="977.636216" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_72">
+     <g id="line2d_86">
+      <g>
+       <use xlink:href="#md744665823" x="993.547979" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_73">
+     <g id="line2d_87">
+      <g>
+       <use xlink:href="#md744665823" x="1009.459743" y="568.659728" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_15">
+     <!-- 日期 -->
+     <g transform="translate(527.199272 631.673268) scale(0.14 -0.14)">
+      <defs>
+       <path id="SimHei-65e5" d="M 5375 5000 
+Q 5350 3775 5350 2275 
+Q 5350 775 5375 -450 
+L 4800 -450 
+L 4800 175 
+L 1800 175 
+L 1800 -575 
+L 1250 -575 
+Q 1275 575 1275 2125 
+Q 1275 3675 1250 5000 
+L 5375 5000 
+z
+M 4800 600 
+L 4800 2375 
+L 1800 2375 
+L 1800 600 
+L 4800 600 
+z
+M 4800 2800 
+L 4800 4550 
+L 1800 4550 
+L 1800 2800 
+L 4800 2800 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-671f" d="M 4900 -25 
+Q 5475 -100 5425 175 
+L 5425 1575 
+L 4325 1575 
+Q 4275 975 4050 425 
+Q 3825 -125 3400 -600 
+Q 3225 -375 2925 -275 
+Q 3350 150 3562 625 
+Q 3775 1100 3812 1575 
+Q 3850 2050 3850 3125 
+Q 3850 4225 3825 4875 
+L 5950 4875 
+Q 5925 4400 5925 3725 
+L 5925 50 
+Q 5925 -300 5700 -425 
+Q 5475 -550 5100 -600 
+Q 5100 -325 4900 -25 
+z
+M 950 4300 
+Q 950 4675 925 5125 
+L 1450 5125 
+Q 1425 4625 1425 4300 
+L 2550 4300 
+Q 2550 4775 2525 5125 
+L 3075 5125 
+Q 3050 4700 3050 4300 
+Q 3225 4300 3500 4325 
+L 3500 3900 
+Q 3250 3925 3050 3925 
+L 3050 1550 
+Q 3250 1550 3500 1575 
+L 3500 1150 
+Q 3025 1175 2575 1175 
+L 1225 1175 
+Q 675 1175 275 1150 
+L 275 1575 
+Q 650 1550 950 1550 
+L 950 3925 
+Q 725 3925 425 3900 
+L 425 4325 
+Q 700 4300 950 4300 
+z
+M 5425 3375 
+L 5425 4500 
+L 4350 4500 
+L 4350 3375 
+L 5425 3375 
+z
+M 5425 1950 
+L 5425 3000 
+L 4350 3000 
+L 4350 1950 
+L 5425 1950 
+z
+M 1600 725 
+Q 1425 650 1162 287 
+Q 900 -75 650 -350 
+Q 400 -175 225 -75 
+Q 450 100 700 412 
+Q 950 725 1100 1025 
+L 1600 725 
+z
+M 2550 3375 
+L 2550 3925 
+L 1425 3925 
+L 1425 3375 
+L 2550 3375 
+z
+M 2550 1550 
+L 2550 2100 
+L 1425 2100 
+L 1425 1550 
+L 2550 1550 
+z
+M 2550 2475 
+L 2550 3000 
+L 1425 3000 
+L 1425 2475 
+L 2550 2475 
+z
+M 2850 -75 
+Q 2450 525 2225 725 
+Q 2375 825 2550 1025 
+Q 2850 725 3250 275 
+Q 3050 125 2850 -75 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-65e5"/>
+      <use xlink:href="#SimHei-671f" x="100"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_88">
+      <path d="M 59.300147 510.494886 
+L 1023.098397 510.494886 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_89">
+      <defs>
+       <path id="m77fe984c68" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m77fe984c68" x="59.300147" y="510.494886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- -0.3 -->
+      <g transform="translate(30.300147 514.276136) scale(0.11 -0.11)">
+       <defs>
+        <path id="SimHei-2e" d="M 1075 125 
+L 500 125 
+L 500 675 
+L 1075 675 
+L 1075 125 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-2d"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-2e" x="100"/>
+       <use xlink:href="#SimHei-33" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_90">
+      <path d="M 59.300147 442.06566 
+L 1023.098397 442.06566 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_91">
+      <g>
+       <use xlink:href="#m77fe984c68" x="59.300147" y="442.06566" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- -0.2 -->
+      <g transform="translate(30.300147 445.84691) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-2d"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-2e" x="100"/>
+       <use xlink:href="#SimHei-32" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_92">
+      <path d="M 59.300147 373.636434 
+L 1023.098397 373.636434 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_93">
+      <g>
+       <use xlink:href="#m77fe984c68" x="59.300147" y="373.636434" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- -0.1 -->
+      <g transform="translate(30.300147 377.417684) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-2d"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+       <use xlink:href="#SimHei-2e" x="100"/>
+       <use xlink:href="#SimHei-31" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_94">
+      <path d="M 59.300147 305.207208 
+L 1023.098397 305.207208 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_95">
+      <g>
+       <use xlink:href="#m77fe984c68" x="59.300147" y="305.207208" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 0.0 -->
+      <g transform="translate(35.800147 308.988458) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_96">
+      <path d="M 59.300147 236.777982 
+L 1023.098397 236.777982 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_97">
+      <g>
+       <use xlink:href="#m77fe984c68" x="59.300147" y="236.777982" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 0.1 -->
+      <g transform="translate(35.800147 240.559232) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-31" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_98">
+      <path d="M 59.300147 168.348756 
+L 1023.098397 168.348756 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_99">
+      <g>
+       <use xlink:href="#m77fe984c68" x="59.300147" y="168.348756" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- 0.2 -->
+      <g transform="translate(35.800147 172.130006) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-32" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_100">
+      <path d="M 59.300147 99.91953 
+L 1023.098397 99.91953 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_101">
+      <g>
+       <use xlink:href="#m77fe984c68" x="59.300147" y="99.91953" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 0.3 -->
+      <g transform="translate(35.800147 103.70078) scale(0.11 -0.11)">
+       <use xlink:href="#SimHei-30"/>
+       <use xlink:href="#SimHei-2e" x="50"/>
+       <use xlink:href="#SimHei-33" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_23">
+     <!-- 平均加权情感得分 -->
+     <g transform="translate(18.550147 361.207208) rotate(-90) scale(0.14 -0.14)">
+      <defs>
+       <path id="SimHei-5e73" d="M 4525 4825 
+Q 4900 4825 5450 4850 
+L 5450 4375 
+Q 4925 4400 4525 4400 
+L 3475 4400 
+L 3475 2025 
+L 5000 2025 
+Q 5550 2025 6025 2050 
+L 6025 1575 
+Q 5550 1600 5000 1600 
+L 3475 1600 
+L 3475 450 
+Q 3475 -100 3500 -600 
+L 2925 -600 
+Q 2950 -100 2950 450 
+L 2950 1600 
+L 1125 1600 
+Q 775 1600 375 1575 
+L 375 2050 
+Q 775 2025 1175 2025 
+L 2950 2025 
+L 2950 4400 
+L 1775 4400 
+Q 1400 4400 875 4375 
+L 875 4850 
+Q 1400 4825 1750 4825 
+L 4525 4825 
+z
+M 3925 2600 
+Q 4500 3300 4900 4125 
+Q 5150 3950 5400 3825 
+Q 4775 2850 4350 2300 
+Q 4150 2475 3925 2600 
+z
+M 1975 2350 
+Q 1600 3100 1050 3725 
+Q 1250 3875 1450 4050 
+Q 2075 3300 2450 2725 
+Q 2150 2500 1975 2350 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-5747" d="M 5775 275 
+Q 5775 -325 5362 -450 
+Q 4950 -575 4425 -600 
+Q 4375 -275 4250 25 
+Q 4950 -25 5125 62 
+Q 5300 150 5300 500 
+L 5375 3700 
+L 3550 3700 
+Q 3425 3375 3262 3037 
+Q 3100 2700 2925 2400 
+Q 2675 2550 2475 2625 
+Q 3150 3625 3500 5200 
+Q 3800 5100 4075 5025 
+Q 3975 4875 3875 4650 
+Q 3775 4425 3675 4125 
+L 5900 4125 
+L 5775 275 
+z
+M 1250 3625 
+L 1250 4375 
+Q 1250 4775 1225 5100 
+L 1775 5100 
+Q 1750 4725 1750 4375 
+L 1750 3625 
+L 1900 3625 
+Q 2200 3625 2525 3650 
+L 2525 3150 
+Q 2200 3175 1900 3175 
+L 1750 3175 
+L 1750 1100 
+L 2500 1375 
+Q 2475 1125 2525 900 
+Q 1225 475 962 362 
+Q 700 250 475 150 
+Q 375 475 250 750 
+Q 575 800 800 850 
+Q 1025 900 1250 975 
+L 1250 3175 
+L 1125 3175 
+Q 850 3175 400 3150 
+L 400 3650 
+Q 850 3625 1100 3625 
+L 1250 3625 
+z
+M 4950 1625 
+Q 4675 1425 4137 1050 
+Q 3600 675 3175 300 
+Q 3000 575 2850 775 
+Q 3350 1050 3762 1325 
+Q 4175 1600 4775 2075 
+Q 4825 1850 4950 1625 
+z
+M 3775 3150 
+Q 4125 2800 4475 2300 
+Q 4250 2125 4100 1975 
+Q 3900 2325 3450 2825 
+Q 3600 3000 3775 3150 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-52a0" d="M 5700 4150 
+Q 5675 3625 5675 3100 
+L 5675 900 
+Q 5675 300 5700 -350 
+L 5225 -350 
+L 5225 225 
+L 4150 225 
+L 4150 -475 
+L 3675 -475 
+Q 3700 25 3700 550 
+L 3700 3100 
+Q 3700 3600 3675 4150 
+L 5700 4150 
+z
+M 3125 225 
+Q 3050 -250 2725 -337 
+Q 2400 -425 2025 -450 
+Q 2025 -225 1875 125 
+Q 2300 100 2475 137 
+Q 2650 175 2675 425 
+L 2850 3425 
+L 1975 3425 
+Q 1925 2450 1812 1875 
+Q 1700 1300 1562 875 
+Q 1425 450 1187 37 
+Q 950 -375 775 -600 
+Q 600 -400 275 -250 
+Q 750 225 987 787 
+Q 1225 1350 1312 1837 
+Q 1400 2325 1425 2637 
+Q 1450 2950 1475 3425 
+L 1125 3425 
+Q 850 3425 550 3400 
+L 550 3900 
+Q 825 3850 1175 3850 
+L 1500 3850 
+Q 1525 4375 1525 4475 
+Q 1525 4600 1500 5075 
+Q 1775 5050 2125 5025 
+Q 2075 4825 2050 4600 
+Q 2025 4375 2000 3850 
+L 3350 3850 
+Q 3325 3650 3325 3425 
+L 3125 225 
+z
+M 5225 725 
+L 5225 3700 
+L 4150 3700 
+L 4150 725 
+L 5225 725 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-6743" d="M 2700 4575 
+Q 3250 4550 3725 4550 
+L 5675 4550 
+Q 5575 3500 5337 2737 
+Q 5100 1975 4475 1075 
+Q 4775 675 5200 425 
+Q 5625 175 6175 0 
+Q 5825 -275 5750 -500 
+Q 5175 -225 4775 100 
+Q 4375 425 4150 725 
+Q 3825 350 3475 62 
+Q 3125 -225 2500 -600 
+Q 2400 -350 2100 -125 
+Q 2475 0 2950 275 
+Q 3425 550 3850 1075 
+Q 3625 1375 3400 2037 
+Q 3175 2700 3050 4125 
+L 2700 4125 
+L 2700 4575 
+z
+M 200 1350 
+Q 575 1750 825 2275 
+Q 1075 2800 1250 3450 
+Q 825 3450 425 3425 
+L 425 3875 
+Q 875 3850 1325 3850 
+Q 1325 4900 1300 5250 
+L 1850 5250 
+Q 1800 4950 1800 3850 
+Q 2175 3850 2600 3875 
+L 2600 3425 
+Q 2175 3450 1800 3450 
+L 1800 2525 
+Q 1975 2625 2175 2775 
+Q 2625 2175 2750 1875 
+Q 2475 1725 2325 1575 
+Q 2200 1925 1800 2375 
+L 1800 525 
+Q 1800 0 1825 -600 
+L 1275 -600 
+Q 1325 0 1325 525 
+L 1325 2375 
+Q 1125 1675 575 900 
+Q 425 1225 200 1350 
+z
+M 3525 4150 
+Q 3675 2850 3787 2412 
+Q 3900 1975 4175 1475 
+Q 4475 1925 4750 2587 
+Q 5025 3250 5100 4150 
+L 3525 4150 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-60c5" d="M 2775 1475 
+Q 2775 2050 2750 2525 
+L 5600 2525 
+Q 5575 2100 5575 1725 
+L 5575 -150 
+Q 5575 -425 5375 -500 
+Q 5175 -575 4875 -625 
+Q 4850 -400 4700 -150 
+Q 5050 -150 5100 -75 
+Q 5150 0 5150 475 
+L 3225 475 
+L 3225 -625 
+L 2750 -625 
+Q 2775 -50 2775 375 
+L 2775 1475 
+z
+M 2375 3250 
+Q 2975 3225 3475 3225 
+L 3975 3225 
+L 3975 3625 
+L 3500 3625 
+Q 3075 3625 2625 3600 
+L 2625 4025 
+Q 3075 4000 3500 4000 
+L 3975 4000 
+L 3975 4350 
+L 3450 4350 
+Q 3050 4350 2475 4325 
+L 2475 4750 
+Q 3075 4725 3450 4725 
+L 3975 4725 
+Q 3975 4975 3950 5225 
+L 4475 5225 
+Q 4450 4975 4450 4725 
+L 5125 4725 
+Q 5550 4725 5925 4750 
+L 5925 4325 
+Q 5550 4350 5125 4350 
+L 4450 4350 
+L 4450 4000 
+L 4925 4000 
+Q 5325 4000 5750 4025 
+L 5750 3600 
+Q 5300 3625 4925 3625 
+L 4450 3625 
+L 4450 3225 
+L 5175 3225 
+Q 5775 3225 6150 3250 
+L 6150 2825 
+Q 5775 2850 5150 2850 
+L 3500 2850 
+Q 2850 2850 2375 2825 
+L 2375 3250 
+z
+M 1675 5225 
+Q 1650 4800 1650 4400 
+L 1650 425 
+Q 1650 -100 1675 -600 
+L 1150 -600 
+Q 1200 -100 1200 425 
+L 1200 4325 
+Q 1200 4825 1150 5225 
+L 1675 5225 
+z
+M 5125 850 
+L 5125 1325 
+L 3225 1325 
+L 3225 850 
+L 5125 850 
+z
+M 5125 1700 
+L 5125 2150 
+L 3225 2150 
+L 3225 1700 
+L 5125 1700 
+z
+M 1050 3900 
+Q 1000 3675 725 2275 
+Q 500 2350 250 2375 
+Q 425 2750 575 3975 
+Q 800 3925 1050 3900 
+z
+M 1975 3125 
+Q 1925 3425 1775 3975 
+Q 1950 4000 2200 4075 
+Q 2350 3550 2450 3275 
+Q 2175 3200 1975 3125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-611f" d="M 6125 1900 
+Q 5900 1200 5725 1112 
+Q 5550 1025 5237 1137 
+Q 4925 1250 4425 1700 
+Q 4125 1375 3725 1100 
+Q 3550 1300 3350 1400 
+Q 3875 1700 4175 2050 
+Q 3900 2500 3762 3037 
+Q 3625 3575 3575 4050 
+L 1325 4050 
+Q 1325 2925 1287 2525 
+Q 1250 2125 1125 1775 
+Q 1000 1425 750 1025 
+Q 450 1225 275 1275 
+Q 575 1650 712 2012 
+Q 850 2375 875 2850 
+Q 900 3325 875 4450 
+L 3525 4450 
+Q 3525 4650 3500 5175 
+Q 3725 5125 4025 5100 
+Q 3975 4800 4000 4450 
+L 5100 4450 
+Q 5450 4450 5925 4475 
+L 5925 4025 
+Q 5450 4050 5125 4050 
+L 4025 4050 
+Q 4125 3000 4450 2475 
+Q 4600 2725 4725 3087 
+Q 4850 3450 4925 3775 
+Q 5175 3675 5450 3600 
+Q 5350 3500 5187 3050 
+Q 5025 2600 4725 2050 
+Q 5000 1800 5212 1675 
+Q 5425 1550 5487 1625 
+Q 5550 1700 5650 2150 
+Q 5850 1975 6125 1900 
+z
+M 3325 1600 
+L 1575 1600 
+L 1575 2875 
+L 3325 2875 
+L 3325 1600 
+z
+M 4875 175 
+Q 4700 -325 4575 -412 
+Q 4450 -500 4250 -500 
+L 2350 -500 
+Q 2025 -475 1962 -200 
+Q 1900 75 1900 325 
+Q 1900 575 1875 925 
+L 2400 925 
+Q 2375 500 2375 325 
+Q 2375 175 2400 25 
+Q 2425 -125 2725 -100 
+L 3875 -100 
+Q 4125 -100 4212 -12 
+Q 4300 75 4350 450 
+Q 4550 300 4875 175 
+z
+M 3300 3275 
+L 1600 3275 
+L 1600 3650 
+L 3300 3650 
+L 3300 3275 
+z
+M 5350 900 
+Q 5900 225 6075 -50 
+Q 5825 -200 5625 -350 
+Q 5375 125 4950 600 
+Q 5125 725 5350 900 
+z
+M 475 -175 
+Q 700 100 975 925 
+Q 1175 825 1450 725 
+Q 1125 -25 950 -375 
+Q 750 -275 475 -175 
+z
+M 2925 1950 
+L 2925 2525 
+L 1975 2525 
+L 1975 1950 
+L 2925 1950 
+z
+M 2725 1050 
+Q 2875 1175 3100 1325 
+Q 3525 775 3650 550 
+Q 3450 425 3275 250 
+Q 3125 525 2725 1050 
+z
+M 4900 4500 
+Q 4750 4625 4350 4900 
+Q 4500 5075 4600 5225 
+Q 4775 5125 5200 4800 
+Q 5050 4675 4900 4500 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-5f97" d="M 5575 4975 
+Q 5550 4625 5550 3950 
+Q 5550 3300 5575 2900 
+L 2675 2900 
+Q 2700 3300 2700 3950 
+Q 2700 4600 2675 4975 
+L 5575 4975 
+z
+M 1950 1625 
+Q 2400 1600 2950 1600 
+L 4775 1600 
+L 4775 2100 
+L 3125 2100 
+Q 2700 2100 2325 2075 
+L 2325 2500 
+Q 2700 2475 3125 2475 
+L 5000 2475 
+Q 5525 2475 5900 2500 
+L 5900 2075 
+Q 5575 2100 5225 2100 
+L 5225 1600 
+Q 5675 1600 6075 1625 
+L 6075 1175 
+Q 5700 1200 5225 1200 
+L 5225 250 
+Q 5250 -275 4950 -400 
+Q 4650 -525 4175 -600 
+Q 4125 -350 3975 -25 
+Q 4550 -25 4675 62 
+Q 4800 150 4775 425 
+L 4775 1200 
+L 2950 1200 
+Q 2400 1200 1950 1175 
+L 1950 1625 
+z
+M 1150 -550 
+Q 1175 125 1175 575 
+L 1175 2075 
+Q 950 1825 625 1500 
+Q 475 1750 275 1925 
+Q 775 2300 1150 2775 
+Q 1525 3250 1800 3775 
+Q 2000 3600 2275 3450 
+Q 2050 3150 1625 2575 
+L 1625 575 
+Q 1625 125 1650 -550 
+L 1150 -550 
+z
+M 2150 4875 
+Q 1450 4000 825 3375 
+Q 675 3575 475 3750 
+Q 1175 4325 1700 5200 
+Q 1900 5025 2150 4875 
+z
+M 5100 3300 
+L 5100 3775 
+L 3150 3775 
+L 3150 3300 
+L 5100 3300 
+z
+M 5100 4150 
+L 5100 4600 
+L 3150 4600 
+L 3150 4150 
+L 5100 4150 
+z
+M 2950 1050 
+Q 3325 525 3550 175 
+Q 3375 75 3100 -125 
+Q 2950 275 2575 750 
+Q 2800 900 2950 1050 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-5206" d="M 1000 -650 
+Q 825 -375 575 -225 
+Q 975 -75 1300 137 
+Q 1625 350 1875 662 
+Q 2125 975 2250 1350 
+Q 2375 1725 2425 2275 
+Q 1850 2275 1500 2250 
+L 1500 2775 
+Q 1900 2750 2525 2750 
+L 5025 2750 
+Q 4975 2375 4950 2100 
+L 4750 250 
+Q 4700 -200 4350 -350 
+Q 4000 -500 3575 -525 
+Q 3550 -275 3325 50 
+Q 3850 25 4037 87 
+Q 4225 150 4275 525 
+L 4450 2275 
+L 2950 2275 
+Q 2875 1625 2737 1187 
+Q 2600 750 2350 425 
+Q 2100 100 1750 -175 
+Q 1400 -450 1000 -650 
+z
+M 3950 5175 
+Q 4125 4650 4662 3975 
+Q 5200 3300 6175 2800 
+Q 5975 2625 5775 2275 
+Q 5325 2600 4987 2887 
+Q 4650 3175 4425 3425 
+Q 4200 3675 3925 4137 
+Q 3650 4600 3475 5000 
+Q 3750 5075 3950 5175 
+z
+M 2700 4825 
+Q 2475 4425 2325 4125 
+Q 2175 3825 2025 3587 
+Q 1875 3350 1575 2950 
+Q 1275 2550 850 2125 
+Q 625 2350 400 2475 
+Q 900 2925 1187 3300 
+Q 1475 3675 1737 4112 
+Q 2000 4550 2200 5075 
+Q 2400 4925 2700 4825 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-5e73"/>
+      <use xlink:href="#SimHei-5747" x="100"/>
+      <use xlink:href="#SimHei-52a0" x="200"/>
+      <use xlink:href="#SimHei-6743" x="300"/>
+      <use xlink:href="#SimHei-60c5" x="400"/>
+      <use xlink:href="#SimHei-611f" x="500"/>
+      <use xlink:href="#SimHei-5f97" x="600"/>
+      <use xlink:href="#SimHei-5206" x="700"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_102">
+    <path d="M -1 415.88493 
+L 2.47242 422.107136 
+L 4.745529 430.660789 
+L 7.018638 370.785216 
+L 9.291747 347.975474 
+L 11.564857 365.082781 
+L 13.837966 330.460851 
+L 18.384184 299.504772 
+L 20.657293 253.885288 
+L 22.930402 288.099901 
+L 25.203511 276.69503 
+L 27.47662 262.031625 
+L 36.569056 317.426712 
+L 38.842165 319.870613 
+L 41.115275 332.090118 
+L 45.661493 395.631542 
+L 47.934602 381.78277 
+L 50.207711 345.124256 
+L 52.48082 342.680355 
+L 54.753929 348.790108 
+L 57.027038 319.463297 
+L 59.300147 292.580386 
+L 61.573256 255.921872 
+L 63.846365 271.60357 
+L 66.119474 301.256235 
+L 68.392584 291.480631 
+L 70.665693 277.663191 
+L 72.938802 299.658299 
+L 75.211911 280.921726 
+L 77.48502 290.825956 
+L 79.758129 288.25986 
+L 82.031238 302.902899 
+L 84.304347 318.318275 
+L 86.577456 315.272798 
+L 88.850565 313.178026 
+L 91.123674 331.425819 
+L 93.396783 315.353649 
+L 95.669892 296.535612 
+L 97.943002 299.613987 
+L 100.216111 296.606109 
+L 102.48922 307.76659 
+L 104.762329 309.137243 
+L 107.035438 322.823088 
+L 109.308547 330.457369 
+L 111.581656 340.721753 
+L 113.854765 334.405209 
+L 116.127874 331.773316 
+L 118.400983 337.068435 
+L 122.947201 295.268677 
+L 125.220311 330.460851 
+L 129.766529 275.71747 
+L 132.039638 270.015034 
+L 134.312747 273.040816 
+L 136.585856 296.257875 
+L 138.858965 307.255429 
+L 141.132074 278.13661 
+L 143.405183 317.013434 
+L 145.678292 345.525611 
+L 147.951401 358.288205 
+L 150.22451 359.750593 
+L 154.770729 347.240148 
+L 157.043838 338.331869 
+L 159.316947 336.507737 
+L 161.590056 331.436209 
+L 163.863165 331.507434 
+L 166.136274 313.856499 
+L 168.409383 321.034797 
+L 170.682492 323.156311 
+L 172.955601 329.09555 
+L 175.22871 327.146162 
+L 177.501819 334.552973 
+L 179.774928 337.761171 
+L 182.048038 343.905553 
+L 184.321147 335.826049 
+L 186.594256 332.266947 
+L 188.867365 341.545064 
+L 191.140474 358.98563 
+L 193.413583 356.270184 
+L 195.686692 364.783554 
+L 197.959801 367.457223 
+L 200.23291 366.554598 
+L 202.506019 370.164543 
+L 204.779128 358.759672 
+L 207.052237 341.407975 
+L 209.325347 333.804728 
+L 211.598456 310.063976 
+L 213.871565 301.91764 
+L 216.144674 306.456313 
+L 218.417783 316.503461 
+L 220.690892 321.212441 
+L 222.964001 321.018773 
+L 225.23711 323.096089 
+L 227.510219 336.484416 
+L 229.783328 339.32519 
+L 232.056437 345.904923 
+L 234.329546 334.70371 
+L 236.602655 337.982114 
+L 238.875765 325.79335 
+L 241.148874 307.830678 
+L 243.421983 300.552104 
+L 245.695092 290.651172 
+L 247.968201 281.627538 
+L 250.24131 287.126315 
+L 252.514419 313.353544 
+L 254.787528 358.973028 
+L 257.060637 374.858384 
+L 259.333746 356.529127 
+L 261.606855 367.933998 
+L 263.879964 367.933998 
+L 266.153074 390.74374 
+L 268.426183 339.421821 
+L 270.699292 293.802337 
+L 272.972401 277.916981 
+L 275.24551 260.809674 
+L 277.518619 260.809674 
+L 279.791728 245.331635 
+L 282.064837 195.231666 
+L 284.337946 199.508493 
+L 286.611055 207.980682 
+L 288.884164 215.556775 
+L 291.157273 265.323485 
+L 293.430382 250.66008 
+L 295.703492 272.003481 
+L 297.976601 286.492322 
+L 300.24971 320.82913 
+L 302.522819 312.35694 
+L 304.795928 325.554005 
+L 307.069037 306.200285 
+L 309.342146 329.417344 
+L 311.615255 314.998328 
+L 313.888364 282.18023 
+L 316.161473 273.242535 
+L 318.434582 271.816926 
+L 320.707691 301.143738 
+L 322.980801 301.143738 
+L 325.25391 302.854468 
+L 327.527019 319.961775 
+L 329.800128 357.978011 
+L 332.073237 379.623991 
+L 334.346346 392.454471 
+L 336.619455 346.834987 
+L 338.892564 354.438234 
+L 341.165673 337.953012 
+L 343.438782 331.714633 
+L 345.711891 330.920887 
+L 347.985 305.259928 
+L 350.258109 312.59163 
+L 352.531219 328.631486 
+L 354.804328 335.986801 
+L 357.077437 347.910075 
+L 359.350546 358.861692 
+L 361.623655 360.13064 
+L 363.896764 356.770276 
+L 366.169873 357.992227 
+L 368.442982 340.915565 
+L 370.716091 346.865932 
+L 372.9892 358.270803 
+L 375.262309 379.218526 
+L 379.808528 356.973473 
+L 382.081637 358.806399 
+L 384.354746 388.477578 
+L 386.627855 371.859051 
+L 391.174073 313.714575 
+L 393.447182 311.048501 
+L 395.720291 343.692035 
+L 397.9934 350.412763 
+L 400.266509 350.290568 
+L 402.539618 343.936425 
+L 404.812727 345.056546 
+L 407.085836 362.163853 
+L 409.358946 405.709724 
+L 411.632055 382.434477 
+L 413.905164 348.219864 
+L 416.178273 311.56135 
+L 418.451382 304.159822 
+L 420.724491 300.901287 
+L 422.9976 278.091545 
+L 425.270709 234.99002 
+L 427.543818 231.731485 
+L 429.816927 258.614395 
+L 432.090036 292.616495 
+L 434.363145 315.817943 
+L 436.636255 346.477791 
+L 438.909364 319.59488 
+L 441.182473 345.589099 
+L 443.455582 362.696406 
+L 445.728691 387.135415 
+L 448.0018 382.460126 
+L 450.274909 389.632876 
+L 452.548018 390.74374 
+L 454.821127 422.514452 
+L 457.094236 411.516898 
+L 461.640454 319.626223 
+L 463.913563 321.459149 
+L 466.186673 295.798189 
+L 468.459782 279.579574 
+L 470.732891 308.906385 
+L 473.006 302.796633 
+L 475.279109 349.23075 
+L 477.552218 351.919041 
+L 479.825327 331.756859 
+L 482.098436 332.707265 
+L 484.371545 348.92588 
+L 486.644654 320.006386 
+L 488.917763 320.006386 
+L 491.190872 311.452732 
+L 493.463982 320.983946 
+L 495.737091 312.430293 
+L 498.0102 326.876463 
+L 500.283309 309.769156 
+L 502.556418 300.672414 
+L 504.829527 300.183634 
+L 507.102636 257.415367 
+L 509.375745 239.3305 
+L 511.648854 285.764618 
+L 513.921963 290.326567 
+L 516.195072 296.436319 
+L 518.468181 300.237943 
+L 520.74129 294.61697 
+L 523.0144 312.946227 
+L 525.287509 318.648663 
+L 527.560618 306.429158 
+L 529.833727 295.024287 
+L 532.106836 279.138931 
+L 534.379945 290.543802 
+L 536.653054 313.760861 
+L 538.926163 295.431604 
+L 541.199272 341.051088 
+L 543.472381 317.100859 
+L 545.74549 328.831583 
+L 548.018599 328.609411 
+L 550.291709 301.074793 
+L 552.564818 268.859736 
+L 554.837927 302.376091 
+L 557.111036 275.764726 
+L 559.384145 292.862448 
+L 561.657254 293.0021 
+L 563.930363 324.72344 
+L 566.203472 327.819048 
+L 568.476581 351.480452 
+L 570.74969 367.385204 
+L 573.022799 376.889264 
+L 575.295908 380.320309 
+L 577.569017 380.669438 
+L 579.842127 393.160487 
+L 582.115236 431.855585 
+L 586.661454 391.104507 
+L 588.934563 395.992308 
+L 591.207672 365.199157 
+L 593.480781 370.086959 
+L 595.75389 352.979652 
+L 598.026999 344.425999 
+L 600.300108 321.616257 
+L 602.573217 338.933041 
+L 604.846326 328.668657 
+L 607.119436 357.506688 
+L 609.392545 340.399381 
+L 611.665654 327.093698 
+L 613.938763 309.986392 
+L 616.211872 361.308311 
+L 618.484981 315.362974 
+L 620.75809 337.846862 
+L 623.031199 338.335643 
+L 625.304308 357.88685 
+L 627.577417 354.894242 
+L 629.850526 356.739985 
+L 632.123635 341.168845 
+L 634.396744 380.839609 
+L 636.669854 350.998292 
+L 638.942963 344.514474 
+L 641.216072 324.305293 
+L 643.489181 323.496277 
+L 645.76229 329.471017 
+L 648.035399 331.536389 
+L 650.308508 334.633891 
+L 652.581617 341.258149 
+L 654.854726 331.449295 
+L 657.127835 334.306779 
+L 661.674053 344.260121 
+L 663.947163 334.708215 
+L 666.220272 320.04481 
+L 668.493381 307.269873 
+L 670.76649 315.144665 
+L 673.039599 320.60271 
+L 675.312708 307.050169 
+L 677.585817 299.401076 
+L 679.858926 333.28174 
+L 682.132035 348.138085 
+L 686.678253 360.423527 
+L 688.951362 355.515359 
+L 691.224472 369.067901 
+L 693.497581 364.808531 
+L 695.77069 371.092847 
+L 698.043799 341.817487 
+L 700.316908 317.011892 
+L 702.590017 272.764423 
+L 704.863126 235.800421 
+L 707.136235 196.698006 
+L 709.409344 195.720446 
+L 711.682453 195.720446 
+L 713.955562 250.463827 
+L 716.228671 256.329189 
+L 718.50178 256.329189 
+L 720.77489 307.651109 
+L 723.047999 341.865722 
+L 725.321108 341.865722 
+L 727.594217 307.651109 
+L 729.867326 239.221883 
+L 732.140435 276.69503 
+L 734.413544 310.909643 
+L 736.686653 293.802337 
+L 738.959762 302.35599 
+L 741.232871 268.141377 
+L 743.50598 281.175515 
+L 745.779089 328.424267 
+L 748.052199 339.829138 
+L 750.325308 369.155949 
+L 752.598417 380.56082 
+L 754.871526 406.22178 
+L 757.144635 441.658343 
+L 759.417744 417.219334 
+L 761.690853 390.220047 
+L 763.963962 367.410305 
+L 766.237071 351.117632 
+L 768.51018 365.373721 
+L 770.783289 360.485919 
+L 773.056398 379.792737 
+L 775.329507 397.06297 
+L 777.602617 445.242731 
+L 779.875726 438.857765 
+L 782.148835 425.280537 
+L 784.421944 400.841528 
+L 786.695053 365.516051 
+L 788.968162 354.908791 
+L 791.241271 363.508681 
+L 793.51438 330.071672 
+L 795.787489 336.382581 
+L 800.333707 347.068357 
+L 802.606816 354.69629 
+L 804.879926 339.88698 
+L 807.153035 323.2 
+L 809.426144 323.03337 
+L 811.699253 312.680117 
+L 813.972362 317.656788 
+L 816.245471 310.276451 
+L 818.51858 274.43257 
+L 820.791689 302.130114 
+L 823.064798 315.756713 
+L 825.337907 332.253045 
+L 827.611016 324.432562 
+L 829.884125 304.183097 
+L 832.157234 305.975291 
+L 834.430344 342.905349 
+L 836.703453 310.785509 
+L 838.976562 292.537715 
+L 841.249671 280.31821 
+L 843.52278 305.315826 
+L 845.795889 292.048935 
+L 848.068998 309.924324 
+L 850.342107 307.208879 
+L 852.615216 287.192167 
+L 854.888325 291.591188 
+L 857.161434 299.05003 
+L 859.434543 285.252937 
+L 861.707653 311.830862 
+L 863.980762 297.621323 
+L 866.253871 298.091304 
+L 868.52698 333.804368 
+L 870.800089 342.022695 
+L 873.073198 345.672493 
+L 875.346307 347.730134 
+L 877.619416 352.713444 
+L 879.892525 365.177339 
+L 882.165634 363.607603 
+L 884.438743 366.571928 
+L 886.711852 367.713221 
+L 888.984961 350.413365 
+L 891.258071 353.442352 
+L 893.53118 346.777168 
+L 895.804289 330.623579 
+L 898.077398 338.182215 
+L 900.350507 335.756024 
+L 902.623616 342.492441 
+L 904.896725 351.942191 
+L 907.169834 348.235818 
+L 911.716052 370.828684 
+L 913.989161 375.642659 
+L 916.26227 382.884614 
+L 918.53538 375.34223 
+L 920.808489 374.833084 
+L 923.081598 379.045397 
+L 925.354707 369.899409 
+L 927.627816 365.695745 
+L 932.174034 343.62088 
+L 934.447143 343.572002 
+L 936.720252 347.835547 
+L 938.993361 347.873496 
+L 941.26647 347.366075 
+L 943.539579 343.649309 
+L 945.812688 349.507085 
+L 948.085798 358.035801 
+L 950.358907 357.493412 
+L 952.632016 357.975109 
+L 954.905125 351.459904 
+L 957.178234 352.2264 
+L 959.451343 344.506776 
+L 961.724452 340.648556 
+L 963.997561 334.429461 
+L 966.27067 326.74479 
+L 968.543779 317.155388 
+L 970.816888 317.04284 
+L 973.089997 319.422411 
+L 975.363107 327.66915 
+L 977.636216 323.682382 
+L 979.909325 306.89979 
+L 982.182434 310.945899 
+L 984.455543 313.500208 
+L 986.728652 307.621886 
+L 989.001761 298.84127 
+L 991.27487 287.200757 
+L 993.547979 283.520326 
+L 995.821088 288.274824 
+L 998.094197 288.183121 
+L 1000.367306 269.219763 
+L 1002.640415 258.703583 
+L 1004.913525 288.9808 
+L 1009.459743 299.970215 
+L 1011.732852 310.169519 
+L 1011.732852 310.169519 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke: #1f77b4; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_103">
+    <path d="M 86.577456 395.020567 
+L 88.850565 424.958353 
+L 91.123674 444.916878 
+L 93.396783 459.172966 
+L 95.669892 493.387579 
+L 97.943002 510.494886 
+L 102.48922 407.851047 
+L 113.854765 65.704917 
+L 118.400983 65.704917 
+L 134.312747 544.709499 
+L 143.405183 339.421821 
+L 150.22451 339.421821 
+L 159.316947 544.709499 
+L 177.501819 544.709499 
+L 179.774928 533.304628 
+L 193.413583 259.587724 
+L 195.686692 236.777982 
+L 202.506019 270.992595 
+L 209.325347 202.563369 
+L 213.871565 134.134143 
+L 218.417783 75.48052 
+L 220.690892 80.368322 
+L 229.783328 217.226774 
+L 234.329546 275.880397 
+L 236.602655 270.992595 
+L 247.968201 99.91953 
+L 250.24131 99.91953 
+L 252.514419 156.943885 
+L 254.787528 203.988978 
+L 257.060637 272.418204 
+L 259.333746 327.161584 
+L 263.879964 464.020037 
+L 266.153074 464.020037 
+L 268.426183 441.210295 
+L 270.699292 462.594428 
+L 272.972401 428.379815 
+L 275.24551 424.958353 
+L 277.518619 375.537246 
+L 279.791728 375.537246 
+L 282.064837 346.210434 
+L 286.611055 277.781208 
+L 288.884164 277.781208 
+L 291.157273 260.673902 
+L 293.430382 284.538788 
+L 295.703492 254.967587 
+L 297.976601 291.137321 
+L 300.24971 332.683637 
+L 302.522819 341.848265 
+L 304.795928 341.848265 
+L 307.069037 353.253136 
+L 309.342146 344.594744 
+L 311.615255 374.165946 
+L 313.888364 352.659617 
+L 316.161473 342.884014 
+L 318.434582 326.659227 
+L 320.707691 338.878732 
+L 322.980801 323.400692 
+L 325.25391 330.460851 
+L 327.527019 301.832297 
+L 329.800128 350.710316 
+L 332.073237 377.593226 
+L 334.346346 350.438771 
+L 336.619455 315.409524 
+L 338.892564 290.155881 
+L 341.165673 317.310336 
+L 343.438782 345.93889 
+L 345.711891 300.319406 
+L 347.985 275.880397 
+L 350.258109 310.09501 
+L 352.531219 357.343761 
+L 354.804328 411.109581 
+L 359.350546 391.558374 
+L 361.623655 427.402254 
+L 363.896764 427.402254 
+L 366.169873 412.738849 
+L 370.716091 334.534019 
+L 377.535418 173.236558 
+L 379.808528 207.451171 
+L 382.081637 233.286695 
+L 384.354746 242.084738 
+L 386.627855 256.748144 
+L 388.900964 308.884697 
+L 391.174073 338.211508 
+L 393.447182 390.348061 
+L 395.720291 356.133448 
+L 397.9934 362.068636 
+L 400.266509 385.041305 
+L 402.539618 402.148611 
+L 404.812727 350.012058 
+L 407.085836 350.012058 
+L 409.358946 352.863276 
+L 411.632055 385.122768 
+L 418.451382 333.800849 
+L 420.724491 357.425224 
+L 422.9976 368.830095 
+L 425.270709 361.831652 
+L 427.543818 330.54972 
+L 429.816927 335.437522 
+L 432.090036 346.546162 
+L 434.363145 380.760775 
+L 436.636255 405.403443 
+L 438.909364 384.222968 
+L 441.182473 365.560452 
+L 443.455582 398.797505 
+L 445.728691 428.124316 
+L 448.0018 451.230288 
+L 450.274909 382.801062 
+L 452.548018 375.265701 
+L 454.821127 385.041305 
+L 457.094236 385.041305 
+L 459.367345 341.051088 
+L 461.640454 341.051088 
+L 463.913563 277.509664 
+L 466.186673 282.397466 
+L 468.459782 241.665784 
+L 470.732891 249.269031 
+L 473.006 283.483644 
+L 475.279109 308.465742 
+L 477.552218 294.779897 
+L 479.825327 341.214015 
+L 484.371545 399.867637 
+L 486.644654 392.26439 
+L 488.917763 323.835164 
+L 491.190872 308.628669 
+L 493.463982 288.099901 
+L 495.737091 257.30675 
+L 498.0102 268.711621 
+L 502.556418 268.711621 
+L 504.829527 302.926234 
+L 509.375745 302.926234 
+L 511.648854 325.165732 
+L 513.921963 338.19987 
+L 516.195072 349.604741 
+L 518.468181 374.043751 
+L 520.74129 339.829138 
+L 525.287509 408.258364 
+L 527.560618 433.919323 
+L 529.833727 404.592512 
+L 532.106836 417.626651 
+L 534.379945 398.890077 
+L 536.653054 467.319303 
+L 538.926163 450.211996 
+L 541.199272 424.14372 
+L 543.472381 392.373008 
+L 545.74549 399.70471 
+L 548.018599 377.709602 
+L 550.291709 374.451067 
+L 552.564818 342.680355 
+L 554.837927 328.01695 
+L 557.111036 322.314514 
+L 568.476581 395.631542 
+L 573.022799 390.74374 
+L 577.569017 356.529127 
+L 584.388345 407.851047 
+L 586.661454 442.06566 
+L 588.934563 432.086398 
+L 591.207672 444.972421 
+L 595.75389 444.972421 
+L 598.026999 400.982204 
+L 600.300108 332.552978 
+L 602.573217 306.892018 
+L 604.846326 307.095677 
+L 607.119436 295.838921 
+L 609.392545 312.946227 
+L 611.665654 244.517001 
+L 613.938763 220.077992 
+L 616.211872 271.399912 
+L 618.484981 254.816298 
+L 620.75809 264.591902 
+L 623.031199 280.069941 
+L 625.304308 270.858314 
+L 627.577417 313.870971 
+L 629.850526 343.197782 
+L 632.123635 322.180234 
+L 634.396744 302.838504 
+L 636.669854 285.731197 
+L 638.942963 266.994623 
+L 641.216072 245.413098 
+L 643.489181 240.891882 
+L 645.76229 255.555287 
+L 648.035399 255.799677 
+L 650.308508 283.171368 
+L 652.581617 304.351842 
+L 654.854726 321.507069 
+L 657.127835 330.916087 
+L 659.400944 314.827073 
+L 661.674053 318.900241 
+L 663.947163 323.788043 
+L 666.220272 328.064869 
+L 668.493381 339.958521 
+L 670.76649 320.877797 
+L 673.039599 344.705831 
+L 675.312708 341.311524 
+L 677.585817 346.036399 
+L 679.858926 367.624191 
+L 682.132035 351.942493 
+L 684.405144 331.087872 
+L 686.678253 339.530439 
+L 688.951362 319.979231 
+L 691.224472 355.714494 
+L 693.497581 354.248153 
+L 695.77069 332.253045 
+L 698.043799 351.748071 
+L 700.316908 369.241256 
+L 702.590017 364.353454 
+L 704.863126 367.783491 
+L 707.136235 350.716916 
+L 709.409344 343.197221 
+L 711.682453 328.262271 
+L 713.955562 329.660202 
+L 716.228671 308.501165 
+L 718.50178 311.588197 
+L 720.77489 302.106597 
+L 723.047999 293.756602 
+L 725.321108 305.553124 
+L 727.594217 330.263678 
+L 729.867326 337.882898 
+L 732.140435 352.138987 
+L 734.413544 359.690111 
+L 736.686653 363.705091 
+L 738.959762 380.344417 
+L 741.232871 368.600115 
+L 743.50598 355.343804 
+L 745.779089 342.955754 
+L 748.052199 353.641831 
+L 750.325308 368.664634 
+L 752.598417 379.884361 
+L 754.871526 387.321985 
+L 757.144635 380.314047 
+L 759.417744 397.082631 
+L 761.690853 397.702358 
+L 763.963962 392.375713 
+L 766.237071 372.869763 
+L 768.51018 373.125134 
+L 770.783289 351.593914 
+L 773.056398 355.978382 
+L 775.329507 352.194564 
+L 777.602617 351.299037 
+L 779.875726 354.376882 
+L 782.148835 350.450135 
+L 784.421944 340.724103 
+L 786.695053 349.813467 
+L 788.968162 351.976636 
+L 791.241271 349.656165 
+L 793.51438 348.439297 
+L 795.787489 341.317966 
+L 798.060598 346.0088 
+L 800.333707 354.041603 
+L 802.606816 354.788941 
+L 807.153035 359.747427 
+L 809.426144 365.990955 
+L 811.699253 364.117627 
+L 813.972362 360.864382 
+L 816.245471 354.91129 
+L 818.51858 360.524857 
+L 820.791689 362.427718 
+L 823.064798 358.499445 
+L 825.337907 356.959538 
+L 827.611016 357.736243 
+L 829.884125 359.273536 
+L 832.157234 369.532302 
+L 834.430344 356.676923 
+L 836.703453 349.964876 
+L 838.976562 353.691386 
+L 841.249671 350.419863 
+L 843.52278 350.867057 
+L 845.795889 360.327318 
+L 848.068998 359.527525 
+L 850.342107 373.579675 
+L 852.615216 376.992829 
+L 854.888325 374.926578 
+L 857.161434 373.933744 
+L 859.434543 371.700622 
+L 861.707653 362.914573 
+L 863.980762 359.913189 
+L 866.253871 351.579116 
+L 868.52698 345.858458 
+L 870.800089 346.855094 
+L 873.073198 354.167024 
+L 875.346307 357.924861 
+L 877.619416 358.771608 
+L 879.892525 356.446434 
+L 882.165634 347.975672 
+L 884.438743 351.83332 
+L 886.711852 352.035837 
+L 891.258071 348.474559 
+L 893.53118 349.446719 
+L 895.804289 349.806427 
+L 898.077398 359.509793 
+L 900.350507 358.507677 
+L 902.623616 355.698309 
+L 904.896725 356.044426 
+L 907.169834 356.869303 
+L 909.442943 355.277313 
+L 911.716052 354.865937 
+L 913.989161 353.732577 
+L 916.26227 354.893197 
+L 918.53538 357.163901 
+L 920.808489 350.423597 
+L 923.081598 351.796457 
+L 925.354707 352.003726 
+L 927.627816 354.408971 
+L 929.900925 358.055689 
+L 932.174034 357.378268 
+L 934.447143 356.538171 
+L 936.720252 363.144462 
+L 938.993361 363.140262 
+L 941.26647 361.269047 
+L 943.539579 360.447436 
+L 945.812688 357.19624 
+L 948.085798 355.335879 
+L 950.358907 354.895947 
+L 952.632016 350.818526 
+L 954.905125 350.399729 
+L 957.178234 353.859626 
+L 959.451343 352.644907 
+L 961.724452 356.027704 
+L 963.997561 360.330495 
+L 966.27067 360.544885 
+L 968.543779 360.468765 
+L 970.816888 358.095584 
+L 973.089997 356.629638 
+L 975.363107 356.658601 
+L 977.636216 354.484229 
+L 979.909325 352.962146 
+L 982.182434 349.75332 
+L 984.455543 354.740992 
+L 986.728652 356.850714 
+L 989.001761 359.303348 
+L 991.27487 359.740259 
+L 993.547979 359.442719 
+L 995.821088 355.014189 
+L 998.094197 358.013005 
+L 1000.367306 351.453224 
+L 1002.640415 343.791265 
+L 1004.913525 339.853876 
+L 1007.186634 337.392391 
+L 1009.459743 332.529733 
+L 1009.459743 332.529733 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke: #ff7f0e; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_104">
+    <path d="M -1 420.685255 
+L 2.47242 454.285164 
+L 4.745529 412.738849 
+L 7.018638 383.412038 
+L 9.291747 407.851047 
+L 18.384184 368.748632 
+L 20.657293 422.514452 
+L 22.930402 451.841264 
+L 27.47662 402.963245 
+L 34.295947 432.290056 
+L 36.569056 373.636434 
+L 43.388384 270.992595 
+L 47.934602 134.134143 
+L 50.207711 99.91953 
+L 54.753929 168.348756 
+L 63.846365 187.899963 
+L 70.665693 99.91953 
+L 93.396783 99.91953 
+L 102.48922 217.226774 
+L 104.762329 217.226774 
+L 109.308547 264.149672 
+L 113.854765 218.530188 
+L 118.400983 286.959414 
+L 120.674092 350.500838 
+L 125.220311 430.660789 
+L 127.49342 446.546145 
+L 129.766529 461.20955 
+L 141.132074 249.404803 
+L 143.405183 248.182853 
+L 150.22451 248.182853 
+L 161.590056 459.9876 
+L 166.136274 471.392471 
+L 168.409383 471.392471 
+L 170.682492 422.514452 
+L 172.955601 379.857273 
+L 175.22871 339.468594 
+L 177.501819 305.253981 
+L 179.774928 307.697882 
+L 182.048038 332.951525 
+L 184.321147 332.951525 
+L 186.594256 381.829543 
+L 188.867365 424.486723 
+L 191.140474 464.875402 
+L 193.413583 464.875402 
+L 195.686692 493.826228 
+L 197.959801 465.639904 
+L 200.23291 455.8643 
+L 202.506019 429.47017 
+L 204.779128 396.477508 
+L 207.052237 366.452439 
+L 209.325347 370.641984 
+L 211.598456 342.389415 
+L 213.871565 348.464254 
+L 216.144674 324.025245 
+L 218.417783 316.204762 
+L 220.690892 285.656 
+L 222.964001 252.139645 
+L 225.23711 247.9501 
+L 227.510219 255.335515 
+L 229.783328 239.973852 
+L 232.056437 245.559911 
+L 234.329546 226.008704 
+L 236.602655 251.914054 
+L 238.875765 286.943301 
+L 241.148874 292.645736 
+L 243.421983 290.264499 
+L 245.695092 275.601094 
+L 247.968201 240.688223 
+L 250.24131 230.912619 
+L 252.514419 205.00727 
+L 259.333746 239.221883 
+L 268.426183 424.958353 
+L 277.518619 239.221883 
+L 282.064837 199.304834 
+L 284.337946 178.938993 
+L 286.611055 205.00727 
+L 288.884164 234.334081 
+L 293.430382 286.813638 
+L 295.703492 286.170506 
+L 302.522819 286.685011 
+L 304.795928 298.089882 
+L 318.434582 385.041305 
+L 382.081637 385.041305 
+L 386.627855 388.067087 
+L 393.447182 353.852474 
+L 397.9934 326.15493 
+L 402.539618 295.431604 
+L 409.358946 288.099901 
+L 420.724491 288.099901 
+L 436.636255 236.777982 
+L 459.367345 236.777982 
+L 475.279109 305.207208 
+L 482.098436 305.207208 
+L 488.917763 393.187641 
+L 498.0102 530.046093 
+L 504.829527 544.709499 
+L 509.375745 544.709499 
+L 525.287509 424.958353 
+L 543.472381 424.958353 
+L 559.384145 305.207208 
+L 563.930363 305.207208 
+L 575.295908 366.304731 
+L 577.569017 384.633988 
+L 579.842127 384.633988 
+L 591.207672 323.536465 
+L 593.480781 305.207208 
+L 595.75389 305.207208 
+L 611.665654 544.709499 
+L 623.031199 544.709499 
+L 638.942963 305.207208 
+L 657.127835 305.207208 
+L 673.039599 293.802337 
+L 718.50178 293.802337 
+L 734.413544 544.709499 
+L 750.325308 544.709499 
+L 754.871526 476.280273 
+L 759.417744 456.729065 
+L 766.237071 354.085226 
+L 770.783289 354.085226 
+L 775.329507 373.636434 
+L 777.602617 399.297394 
+L 786.695053 438.399808 
+L 791.241271 389.52179 
+L 793.51438 373.636434 
+L 800.333707 373.636434 
+L 811.699253 153.68535 
+L 816.245471 164.227963 
+L 820.791689 301.086415 
+L 827.611016 403.730254 
+L 832.157234 373.636434 
+L 836.703453 305.207208 
+L 843.52278 305.207208 
+L 848.068998 270.294337 
+L 859.434543 441.367402 
+L 861.707653 493.038451 
+L 863.980762 505.607084 
+L 866.253871 466.504669 
+L 868.52698 457.951016 
+L 870.800089 437.031224 
+L 875.346307 377.155651 
+L 877.619416 354.475778 
+L 879.892525 363.807036 
+L 882.165634 377.526207 
+L 884.438743 360.280767 
+L 886.711852 350.244481 
+L 888.984961 352.281065 
+L 891.258071 357.074871 
+L 893.53118 352.553064 
+L 895.804289 356.210686 
+L 898.077398 352.022729 
+L 900.350507 355.710338 
+L 902.623616 360.17453 
+L 904.896725 360.388907 
+L 907.169834 359.594212 
+L 909.442943 357.643645 
+L 911.716052 360.388831 
+L 913.989161 365.237673 
+L 916.26227 363.666593 
+L 918.53538 370.301784 
+L 920.808489 365.011613 
+L 923.081598 364.736542 
+L 925.354707 360.703186 
+L 927.627816 355.287812 
+L 929.900925 351.760987 
+L 932.174034 348.899027 
+L 934.447143 338.94013 
+L 936.720252 342.799554 
+L 938.993361 336.631613 
+L 941.26647 337.5281 
+L 943.539579 338.885823 
+L 945.812688 343.546052 
+L 948.085798 337.716823 
+L 950.358907 343.376756 
+L 952.632016 354.531657 
+L 954.905125 352.320509 
+L 957.178234 353.1444 
+L 959.451343 325.408064 
+L 961.724452 321.485679 
+L 963.997561 326.272346 
+L 966.27067 325.445906 
+L 968.543779 324.844331 
+L 970.816888 338.925855 
+L 973.089997 330.636958 
+L 975.363107 351.58468 
+L 977.636216 359.544814 
+L 979.909325 361.251615 
+L 982.182434 360.906013 
+L 984.455543 346.952801 
+L 986.728652 347.209707 
+L 989.001761 357.637018 
+L 991.27487 355.804092 
+L 993.547979 356.269597 
+L 995.821088 359.945295 
+L 998.094197 351.931205 
+L 1000.367306 357.422439 
+L 1002.640415 356.39454 
+L 1004.913525 353.787713 
+L 1007.186634 370.088532 
+L 1009.459743 353.819134 
+L 1011.732852 350.817997 
+L 1014.005961 344.869381 
+L 1016.27907 344.912718 
+L 1018.552179 341.83508 
+L 1020.825288 349.006252 
+L 1023.098397 343.076278 
+L 1025.371506 356.116388 
+L 1027.644615 351.686301 
+L 1029.917724 365.52643 
+L 1032.190834 371.272803 
+L 1034.463943 366.652363 
+L 1036.737052 364.988909 
+L 1039.010161 363.726232 
+L 1041.28327 356.890232 
+L 1043.556379 360.482083 
+L 1045.829488 358.922165 
+L 1048.102597 355.038926 
+L 1050.375706 357.350595 
+L 1052.648815 351.607341 
+L 1054.921924 350.852913 
+L 1057.195033 352.892984 
+L 1059.468142 350.515783 
+L 1059.468142 350.515783 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke: #008000; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_105">
+    <path d="M 59.300147 305.207208 
+L 1023.098397 305.207208 
+" clip-path="url(#p2c93a2d5de)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #808080; stroke-opacity: 0.7; stroke-width: 0.8"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 59.300147 568.659728 
+L 59.300147 41.754687 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 1023.098397 568.659728 
+L 1023.098397 41.754687 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 59.300147 568.659728 
+L 1023.098397 568.659728 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 59.300147 41.754687 
+L 1023.098397 41.754687 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_24">
+    <!-- 各平台对国产大模型情感演变趋势 -->
+    <g transform="translate(406.199272 21.754687) scale(0.18 -0.18)">
+     <defs>
+      <path id="SimHei-5404" d="M 5100 4425 
+Q 4850 4000 4525 3600 
+Q 4200 3200 3675 2750 
+Q 4050 2500 4750 2325 
+Q 5450 2150 6050 2125 
+Q 5825 1825 5775 1600 
+Q 5050 1750 4412 1962 
+Q 3775 2175 3300 2475 
+Q 2750 2150 2000 1875 
+Q 1250 1600 550 1425 
+Q 475 1625 275 1850 
+Q 900 1950 1662 2200 
+Q 2425 2450 2950 2750 
+Q 2525 3150 2100 3900 
+Q 1900 3575 1675 3300 
+Q 1450 3025 1250 2800 
+Q 1050 3000 850 3100 
+Q 1200 3400 1587 3950 
+Q 1975 4500 2175 5225 
+Q 2450 5075 2725 5000 
+Q 2600 4850 2375 4425 
+L 5100 4425 
+z
+M 4975 1675 
+Q 4950 1125 4950 400 
+Q 4950 -325 4975 -575 
+L 4475 -575 
+L 4475 -225 
+L 2050 -225 
+L 2050 -625 
+L 1550 -625 
+Q 1575 -275 1575 400 
+Q 1575 1075 1550 1675 
+L 4975 1675 
+z
+M 4475 200 
+L 4475 1250 
+L 2050 1250 
+L 2050 200 
+L 4475 200 
+z
+M 3325 3000 
+Q 3875 3450 4300 4025 
+L 2500 4025 
+Q 2975 3275 3325 3000 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-53f0" d="M 5300 2025 
+Q 5275 1575 5275 725 
+Q 5275 -100 5300 -550 
+L 4750 -550 
+L 4750 -200 
+L 1675 -200 
+L 1675 -575 
+L 1125 -575 
+Q 1150 -200 1150 575 
+Q 1150 1375 1125 2025 
+L 5300 2025 
+z
+M 3250 4900 
+Q 3050 4750 2675 4300 
+Q 2300 3850 1600 3125 
+Q 2275 3150 2975 3187 
+Q 3675 3225 4700 3300 
+Q 4500 3600 3875 4150 
+Q 4075 4275 4275 4525 
+Q 5225 3550 5950 2725 
+Q 5675 2575 5475 2350 
+Q 5250 2700 5050 2875 
+Q 3800 2800 2587 2712 
+Q 1375 2625 900 2450 
+Q 800 2925 650 3100 
+Q 1000 3200 1587 3800 
+Q 2175 4400 2650 5275 
+Q 3000 5000 3250 4900 
+z
+M 4750 275 
+L 4750 1550 
+L 1675 1550 
+L 1675 275 
+L 4750 275 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-5bf9" d="M 525 4250 
+Q 900 4225 1400 4225 
+L 2825 4225 
+Q 2575 2625 2200 1750 
+Q 2825 875 3125 400 
+Q 2950 275 2725 75 
+Q 2200 975 1950 1300 
+Q 1650 775 1350 425 
+Q 1050 75 600 -350 
+Q 425 -125 200 -25 
+Q 625 275 975 675 
+Q 1325 1075 1650 1700 
+Q 1050 2425 550 2900 
+Q 700 3025 900 3225 
+Q 1625 2425 1875 2150 
+Q 2200 3050 2300 3825 
+L 1400 3825 
+Q 900 3825 525 3800 
+L 525 4250 
+z
+M 2925 3700 
+Q 3525 3675 3750 3675 
+L 4825 3675 
+L 4825 4425 
+Q 4825 4750 4775 5125 
+L 5350 5125 
+Q 5325 4825 5325 4375 
+L 5325 3675 
+Q 5575 3675 6150 3700 
+L 6150 3250 
+Q 5575 3275 5325 3275 
+L 5325 125 
+Q 5350 -350 5012 -475 
+Q 4675 -600 4250 -650 
+Q 4175 -350 4025 -100 
+Q 4575 -100 4712 -37 
+Q 4850 25 4825 325 
+L 4825 3275 
+L 3775 3275 
+Q 3550 3275 2925 3225 
+L 2925 3700 
+z
+M 3450 2725 
+Q 3875 1975 4175 1325 
+Q 3850 1200 3700 1075 
+Q 3475 1750 3050 2475 
+Q 3225 2550 3450 2725 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-56fd" d="M 5775 4975 
+Q 5750 4350 5750 3575 
+L 5750 900 
+Q 5750 125 5775 -625 
+L 5275 -625 
+L 5275 -275 
+L 1125 -275 
+L 1125 -650 
+L 625 -650 
+Q 650 125 650 950 
+L 650 3575 
+Q 650 4325 625 4975 
+L 5775 4975 
+z
+M 5275 100 
+L 5275 4600 
+L 1125 4600 
+L 1125 100 
+L 5275 100 
+z
+M 3975 3925 
+Q 4350 3925 4775 3950 
+L 4775 3500 
+Q 4400 3525 3975 3525 
+L 3350 3525 
+L 3350 2700 
+L 3800 2700 
+Q 4250 2700 4650 2725 
+L 4650 2275 
+Q 4250 2300 3800 2300 
+L 3350 2300 
+L 3350 1175 
+L 4050 1175 
+Q 4500 1175 4900 1200 
+L 4900 750 
+Q 4525 775 4050 775 
+L 2350 775 
+Q 1925 775 1500 750 
+L 1500 1200 
+Q 1925 1175 2350 1175 
+L 2900 1175 
+L 2900 2300 
+L 2550 2300 
+Q 2125 2300 1750 2275 
+L 1750 2725 
+Q 2125 2700 2550 2700 
+L 2900 2700 
+L 2900 3525 
+L 2525 3525 
+Q 2075 3525 1650 3500 
+L 1650 3950 
+Q 2075 3925 2525 3925 
+L 3975 3925 
+z
+M 4050 2125 
+Q 4175 2000 4550 1600 
+Q 4300 1450 4125 1325 
+Q 4050 1425 3700 1850 
+Q 3900 2000 4050 2125 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-4ea7" d="M 5050 3700 
+Q 4925 3550 4762 3262 
+Q 4600 2975 4475 2725 
+L 5250 2725 
+Q 5775 2725 5950 2750 
+L 5950 2250 
+Q 5750 2275 5300 2275 
+L 1525 2275 
+Q 1525 300 575 -625 
+Q 475 -425 200 -250 
+Q 850 475 950 1262 
+Q 1050 2050 1000 2725 
+L 3950 2725 
+Q 4275 3400 4425 3975 
+Q 4750 3825 5050 3700 
+z
+M 3500 5275 
+Q 3550 5100 3700 4475 
+L 4950 4475 
+Q 5400 4475 5800 4500 
+L 5800 4025 
+Q 5400 4050 5025 4050 
+L 2000 4050 
+Q 1625 4050 1050 4025 
+L 1050 4500 
+Q 1650 4475 1825 4475 
+L 3125 4475 
+Q 3050 4800 2925 5150 
+Q 3225 5225 3500 5275 
+z
+M 2375 3950 
+Q 2675 3550 2950 3025 
+Q 2700 2925 2425 2775 
+Q 2200 3300 1900 3675 
+Q 2150 3825 2375 3950 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-5927" d="M 2900 3400 
+Q 2925 4275 2912 4575 
+Q 2900 4875 2875 5150 
+Q 3175 5100 3550 5075 
+Q 3475 4825 3437 4350 
+Q 3400 3875 3400 3400 
+L 4675 3400 
+Q 5350 3400 5925 3450 
+L 5925 2900 
+Q 5425 2925 4900 2925 
+L 3425 2925 
+Q 3525 2500 3775 2062 
+Q 4025 1625 4287 1287 
+Q 4550 950 5012 575 
+Q 5475 200 6025 -50 
+Q 5825 -200 5625 -550 
+Q 5175 -300 4737 75 
+Q 4300 450 3862 1062 
+Q 3425 1675 3200 2200 
+Q 3000 1650 2775 1287 
+Q 2550 925 2287 625 
+Q 2025 325 1612 25 
+Q 1200 -275 675 -575 
+Q 475 -275 225 -50 
+Q 750 125 1262 450 
+Q 1775 775 2100 1187 
+Q 2425 1600 2625 2050 
+Q 2825 2500 2875 2925 
+L 1500 2925 
+Q 900 2925 550 2900 
+L 550 3450 
+Q 900 3425 1500 3400 
+L 2900 3400 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-6a21" d="M 5700 3675 
+Q 5675 3400 5675 2725 
+Q 5675 2050 5700 1725 
+L 4375 1725 
+Q 4350 1450 4325 1200 
+L 5225 1200 
+Q 5750 1200 6025 1225 
+L 6025 825 
+Q 5725 850 5225 850 
+L 4700 850 
+Q 5075 375 5437 137 
+Q 5800 -100 6200 -200 
+Q 5975 -375 5850 -625 
+Q 5275 -400 4862 25 
+Q 4450 450 4300 775 
+L 4225 775 
+Q 4000 275 3537 -62 
+Q 3075 -400 2475 -625 
+Q 2350 -375 2125 -200 
+Q 2775 -75 3200 200 
+Q 3625 475 3775 850 
+L 3325 850 
+Q 2800 850 2400 825 
+L 2400 1225 
+Q 2800 1200 3350 1200 
+L 3875 1200 
+Q 3925 1475 3925 1725 
+L 2750 1725 
+Q 2775 2075 2775 2700 
+Q 2775 3350 2750 3675 
+L 5700 3675 
+z
+M 2175 1650 
+Q 2025 1975 1675 2525 
+L 1675 300 
+Q 1675 -300 1700 -550 
+L 1175 -550 
+Q 1200 -275 1200 250 
+L 1200 2225 
+Q 1125 2000 962 1712 
+Q 800 1425 600 1050 
+Q 450 1275 200 1425 
+Q 600 1825 850 2425 
+Q 1100 3025 1175 3425 
+L 950 3425 
+Q 700 3425 400 3400 
+L 400 3825 
+Q 675 3800 825 3800 
+L 1200 3800 
+L 1200 4350 
+Q 1200 4775 1175 5150 
+L 1700 5150 
+Q 1675 4825 1675 4425 
+L 1675 3800 
+Q 2075 3800 2375 3825 
+L 2375 3400 
+Q 2050 3425 1675 3425 
+L 1675 2575 
+Q 1850 2675 2000 2775 
+Q 2150 2525 2287 2325 
+Q 2425 2125 2550 1925 
+Q 2325 1775 2175 1650 
+z
+M 3375 4300 
+L 3175 4300 
+Q 2700 4300 2425 4275 
+L 2425 4675 
+Q 2700 4650 3150 4650 
+L 3375 4650 
+Q 3375 5000 3350 5225 
+L 3825 5225 
+Q 3800 5000 3800 4650 
+L 4550 4650 
+Q 4550 4975 4525 5200 
+L 5025 5200 
+Q 5000 4925 5000 4650 
+L 5375 4650 
+Q 5650 4650 5950 4675 
+L 5950 4275 
+Q 5650 4300 5375 4300 
+L 5000 4300 
+L 5000 3850 
+L 4550 3850 
+L 4550 4300 
+L 3800 4300 
+L 3800 3875 
+L 3375 3875 
+L 3375 4300 
+z
+M 5275 2075 
+L 5275 2525 
+L 3200 2525 
+L 3200 2075 
+L 5275 2075 
+z
+M 5275 2875 
+L 5275 3325 
+L 3200 3325 
+L 3200 2875 
+L 5275 2875 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-578b" d="M 2625 1775 
+Q 2650 2325 2650 2700 
+L 2650 3000 
+L 1825 3000 
+Q 1725 2375 1425 2000 
+Q 1125 1625 775 1425 
+Q 650 1650 375 1900 
+Q 850 2075 1062 2362 
+Q 1275 2650 1350 3000 
+Q 900 3000 375 2975 
+L 375 3450 
+Q 925 3425 1400 3425 
+Q 1425 3950 1425 4475 
+Q 1075 4475 700 4450 
+L 700 4900 
+Q 1050 4875 1525 4875 
+L 3000 4875 
+Q 3275 4875 3650 4900 
+L 3650 4450 
+Q 3325 4475 3125 4475 
+L 3125 3425 
+Q 3450 3425 3825 3450 
+L 3825 2975 
+Q 3450 3000 3125 3000 
+L 3125 2675 
+Q 3125 2225 3150 1775 
+L 2625 1775 
+z
+M 3000 1175 
+Q 3000 1375 2975 1725 
+L 3500 1725 
+Q 3475 1375 3475 1175 
+L 4550 1175 
+Q 5050 1175 5450 1200 
+L 5450 725 
+Q 4975 750 4550 750 
+L 3475 750 
+L 3475 -50 
+L 5275 -50 
+Q 5700 -50 6100 -25 
+L 6100 -500 
+Q 5725 -475 5300 -475 
+L 1250 -475 
+Q 775 -475 400 -500 
+L 400 -25 
+Q 775 -50 1250 -50 
+L 3000 -50 
+L 3000 750 
+L 2025 750 
+Q 1500 750 975 725 
+L 1050 1200 
+Q 1500 1175 2025 1175 
+L 3000 1175 
+z
+M 5775 5200 
+Q 5750 4775 5750 4325 
+L 5750 2400 
+Q 5775 1950 5612 1775 
+Q 5450 1600 4900 1525 
+Q 4825 1775 4675 2100 
+Q 5175 2075 5237 2150 
+Q 5300 2225 5300 2525 
+L 5300 4325 
+Q 5300 4775 5275 5200 
+L 5775 5200 
+z
+M 4600 4750 
+Q 4575 4450 4575 3975 
+L 4575 3200 
+Q 4575 2825 4600 2425 
+L 4100 2425 
+Q 4125 2825 4125 3200 
+L 4125 3975 
+Q 4125 4450 4100 4750 
+L 4600 4750 
+z
+M 2650 3425 
+L 2650 4475 
+L 1875 4475 
+Q 1850 3750 1850 3425 
+L 2650 3425 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-6f14" d="M 4475 3575 
+Q 4825 3575 5250 3600 
+L 5250 3200 
+Q 4850 3225 4475 3225 
+L 4175 3225 
+L 4175 2700 
+L 5675 2700 
+Q 5650 2375 5650 2000 
+L 5650 1275 
+Q 5650 975 5675 625 
+L 4750 625 
+Q 5025 475 5375 250 
+Q 5725 25 6100 -250 
+Q 5925 -450 5800 -650 
+Q 5425 -350 5075 -112 
+Q 4725 125 4425 300 
+Q 4600 500 4675 625 
+L 2300 625 
+Q 2325 975 2325 1275 
+L 2325 2000 
+Q 2325 2375 2300 2700 
+L 3750 2700 
+L 3750 3225 
+L 3475 3225 
+Q 3125 3225 2700 3200 
+L 2700 3600 
+Q 3150 3575 3450 3575 
+L 4475 3575 
+z
+M 3850 5275 
+Q 4125 4825 4275 4475 
+L 6100 4475 
+Q 6075 4175 6075 3925 
+Q 6075 3700 6100 3400 
+L 5600 3400 
+L 5600 4125 
+L 2425 4125 
+L 2425 3450 
+L 1925 3450 
+Q 1950 3750 1950 3975 
+Q 1950 4200 1925 4475 
+L 3725 4475 
+Q 3625 4775 3375 5100 
+Q 3650 5175 3850 5275 
+z
+M 1775 1325 
+Q 1500 850 1337 575 
+Q 1175 300 1025 37 
+Q 875 -225 700 -550 
+Q 500 -350 275 -175 
+Q 600 200 900 737 
+Q 1200 1275 1400 1700 
+Q 1575 1500 1775 1325 
+z
+M 3600 225 
+Q 3425 125 3012 -162 
+Q 2600 -450 2175 -700 
+Q 2025 -500 1850 -350 
+Q 2200 -200 2537 12 
+Q 2875 225 3200 550 
+Q 3375 375 3600 225 
+z
+M 525 3425 
+Q 1275 2975 1550 2750 
+Q 1400 2550 1275 2325 
+Q 1050 2550 275 3050 
+Q 400 3200 525 3425 
+z
+M 725 5025 
+Q 1475 4575 1750 4375 
+Q 1575 4225 1475 3975 
+Q 750 4550 475 4650 
+Q 650 4875 725 5025 
+z
+M 5200 975 
+L 5200 1475 
+L 4175 1475 
+L 4175 975 
+L 5200 975 
+z
+M 5200 1850 
+L 5200 2350 
+L 4175 2350 
+L 4175 1850 
+L 5200 1850 
+z
+M 3750 1850 
+L 3750 2350 
+L 2750 2350 
+L 2750 1850 
+L 3750 1850 
+z
+M 3750 975 
+L 3750 1475 
+L 2750 1475 
+L 2750 975 
+L 3750 975 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-53d8" d="M 5200 1975 
+Q 4950 1600 4537 1137 
+Q 4125 675 3675 375 
+Q 3925 225 4600 87 
+Q 5275 -50 6000 -75 
+Q 5700 -400 5650 -625 
+Q 4850 -525 4212 -312 
+Q 3575 -100 3225 125 
+Q 2800 -125 2150 -325 
+Q 1500 -525 700 -675 
+Q 600 -425 400 -175 
+Q 950 -150 1687 12 
+Q 2425 175 2825 375 
+Q 2275 775 1675 1575 
+Q 1350 1575 1000 1550 
+L 1000 2000 
+Q 1450 1975 2075 1975 
+L 5200 1975 
+z
+M 3225 5275 
+Q 3400 4900 3550 4475 
+L 4675 4475 
+Q 5400 4475 5975 4500 
+L 5975 4025 
+Q 5375 4050 4725 4050 
+L 4125 4050 
+L 4125 2950 
+Q 4125 2550 4150 2150 
+L 3600 2150 
+Q 3625 2550 3625 2950 
+L 3625 4050 
+L 2750 4050 
+L 2750 2950 
+Q 2750 2675 2775 2150 
+L 2225 2150 
+Q 2250 2675 2250 2950 
+L 2250 4050 
+L 1700 4050 
+Q 975 4050 425 4025 
+L 425 4500 
+Q 950 4475 1700 4475 
+L 2975 4475 
+Q 2925 4675 2700 5125 
+Q 2950 5150 3225 5275 
+z
+M 2200 1575 
+Q 2650 975 3250 600 
+Q 3850 1000 4275 1575 
+L 2200 1575 
+z
+M 4850 3750 
+Q 5375 3275 5950 2675 
+Q 5750 2525 5500 2300 
+Q 5075 2800 4450 3400 
+Q 4675 3575 4850 3750 
+z
+M 1825 3500 
+Q 1700 3375 1425 3025 
+Q 1150 2675 825 2300 
+Q 575 2475 375 2600 
+Q 975 3150 1300 3825 
+Q 1525 3650 1825 3500 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-8d8b" d="M 6000 -500 
+Q 4950 -525 4237 -500 
+Q 3525 -475 2950 -350 
+Q 2375 -225 1950 25 
+Q 1525 275 1100 700 
+Q 875 -150 625 -600 
+Q 400 -300 225 -225 
+Q 500 175 600 587 
+Q 700 1000 737 1375 
+Q 775 1750 775 2025 
+Q 1025 1950 1325 1925 
+Q 1200 1550 1200 1250 
+Q 1200 950 1700 625 
+L 1700 2600 
+Q 850 2600 400 2575 
+L 400 2975 
+Q 875 2950 1575 2950 
+L 1575 3925 
+Q 1050 3925 600 3900 
+L 600 4325 
+Q 1050 4300 1575 4300 
+Q 1575 4750 1550 5200 
+L 2050 5200 
+Q 2025 4800 2025 4300 
+Q 2400 4300 2800 4325 
+L 2800 3900 
+Q 2375 3925 2025 3925 
+L 2025 2950 
+Q 2550 2950 3000 2975 
+L 3000 2575 
+Q 2550 2600 2150 2600 
+L 2150 1775 
+Q 2475 1775 2850 1800 
+L 2850 1400 
+Q 2500 1425 2150 1425 
+L 2150 350 
+Q 2925 -50 4150 -50 
+Q 5400 -50 6200 75 
+Q 6025 -200 6000 -500 
+z
+M 5900 450 
+Q 3750 450 3275 425 
+L 3275 875 
+Q 3750 850 5400 850 
+L 5400 1625 
+Q 3850 1625 3475 1600 
+L 3475 2025 
+Q 3850 2000 5400 2000 
+L 5400 2875 
+L 4075 2875 
+Q 3775 2875 3425 2850 
+L 3425 3150 
+L 3350 3025 
+Q 3150 3300 2925 3375 
+Q 3325 3875 3575 4387 
+Q 3825 4900 3925 5250 
+Q 4225 5125 4475 5075 
+Q 4350 4900 4150 4500 
+L 5750 4500 
+Q 5250 3675 5025 3225 
+L 5900 3225 
+Q 5875 2775 5875 1800 
+Q 5875 850 5900 450 
+z
+M 3475 3250 
+Q 3775 3225 4100 3225 
+L 4525 3225 
+Q 4675 3525 5025 4150 
+L 3975 4150 
+Q 3650 3525 3475 3250 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimHei-52bf" d="M 2700 1500 
+Q 2725 1700 2725 1925 
+Q 3075 1850 3275 1825 
+Q 3225 1700 3200 1500 
+L 5325 1500 
+Q 5300 1150 5237 662 
+Q 5175 175 5075 -62 
+Q 4975 -300 4737 -375 
+Q 4500 -450 3825 -525 
+Q 3800 -275 3550 25 
+Q 4325 -25 4475 62 
+Q 4625 150 4675 350 
+Q 4725 550 4775 1100 
+L 3125 1100 
+Q 2850 325 2250 -12 
+Q 1650 -350 775 -600 
+Q 675 -325 400 -125 
+Q 1050 -50 1687 225 
+Q 2325 500 2600 1100 
+L 1550 1100 
+Q 1075 1100 650 1075 
+L 650 1525 
+Q 1075 1500 1550 1500 
+L 2700 1500 
+z
+M 2350 2250 
+Q 3025 2500 3350 3050 
+Q 3175 3175 2850 3325 
+Q 3025 3475 3100 3675 
+L 3500 3425 
+Q 3550 3625 3600 4075 
+Q 3225 4075 2925 4025 
+L 2875 4425 
+L 3600 4425 
+Q 3600 4900 3550 5200 
+Q 3775 5150 4125 5125 
+Q 4050 4875 4050 4450 
+L 5275 4475 
+Q 5200 3975 5175 3450 
+Q 5150 2925 5262 2650 
+Q 5375 2375 5487 2337 
+Q 5600 2300 5600 2925 
+Q 5800 2725 6125 2675 
+Q 5975 2075 5875 1925 
+Q 5775 1775 5600 1750 
+Q 5425 1725 5112 2000 
+Q 4800 2275 4725 2800 
+Q 4650 3325 4725 4100 
+L 4050 4075 
+Q 4000 3525 3950 3200 
+Q 4150 3075 4450 2900 
+Q 4225 2725 4100 2550 
+Q 3925 2700 3775 2800 
+Q 3400 2325 2850 1950 
+Q 2675 2125 2350 2250 
+z
+M 2525 3300 
+Q 2125 3200 1950 3175 
+L 1950 2250 
+Q 1925 1975 1662 1900 
+Q 1400 1825 1000 1750 
+Q 975 2025 800 2300 
+Q 1350 2275 1425 2325 
+Q 1500 2375 1500 2625 
+L 1500 3075 
+Q 875 2900 450 2775 
+Q 375 3050 225 3225 
+Q 675 3275 1500 3450 
+L 1500 4025 
+Q 800 4025 425 4000 
+L 425 4450 
+Q 800 4425 1500 4425 
+Q 1500 4875 1475 5150 
+L 2025 5150 
+Q 1950 4900 1950 4425 
+Q 2200 4425 2575 4450 
+L 2575 4000 
+Q 2200 4025 1950 4025 
+L 1950 3550 
+Q 2250 3600 2550 3700 
+Q 2525 3525 2525 3300 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SimHei-5404"/>
+     <use xlink:href="#SimHei-5e73" x="100"/>
+     <use xlink:href="#SimHei-53f0" x="200"/>
+     <use xlink:href="#SimHei-5bf9" x="300"/>
+     <use xlink:href="#SimHei-56fd" x="400"/>
+     <use xlink:href="#SimHei-4ea7" x="500"/>
+     <use xlink:href="#SimHei-5927" x="600"/>
+     <use xlink:href="#SimHei-6a21" x="700"/>
+     <use xlink:href="#SimHei-578b" x="800"/>
+     <use xlink:href="#SimHei-60c5" x="900"/>
+     <use xlink:href="#SimHei-611f" x="1000"/>
+     <use xlink:href="#SimHei-6f14" x="1100"/>
+     <use xlink:href="#SimHei-53d8" x="1200"/>
+     <use xlink:href="#SimHei-8d8b" x="1300"/>
+     <use xlink:href="#SimHei-52bf" x="1400"/>
+    </g>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 1050.774362 120.335156 
+L 1149.174362 120.335156 
+Q 1151.574362 120.335156 1151.574362 117.935156 
+L 1151.574362 50.154687 
+Q 1151.574362 47.754687 1149.174362 47.754687 
+L 1050.774362 47.754687 
+Q 1048.374362 47.754687 1048.374362 50.154687 
+L 1048.374362 117.935156 
+Q 1048.374362 120.335156 1050.774362 120.335156 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_25">
+     <!-- 平台 -->
+     <g transform="translate(1086.974362 62.863281) scale(0.13 -0.13)">
+      <use xlink:href="#SimHei-5e73"/>
+      <use xlink:href="#SimHei-53f0" x="100"/>
+     </g>
+    </g>
+    <g id="line2d_106">
+     <path d="M 1053.174362 75.803906 
+L 1065.174362 75.803906 
+L 1077.174362 75.803906 
+" style="fill: none; stroke: #1f77b4; stroke-width: 2; stroke-linecap: square"/>
+    </g>
+    <g id="text_26">
+     <!-- DY 平台 -->
+     <g transform="translate(1086.774362 80.003906) scale(0.12 -0.12)">
+      <defs>
+       <path id="SimHei-44" d="M 2925 2250 
+Q 2925 1100 2437 612 
+Q 1950 125 1125 125 
+L 275 125 
+L 275 4400 
+L 1125 4400 
+Q 2050 4400 2487 3900 
+Q 2925 3400 2925 2250 
+z
+M 2325 2250 
+Q 2325 3175 2025 3550 
+Q 1725 3925 1125 3925 
+L 850 3925 
+L 850 600 
+L 1125 600 
+Q 1725 600 2025 962 
+Q 2325 1325 2325 2250 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-59" d="M 3025 4400 
+L 1850 2050 
+L 1850 125 
+L 1275 125 
+L 1275 2050 
+L 100 4400 
+L 675 4400 
+L 1550 2575 
+L 1575 2575 
+L 2450 4400 
+L 3025 4400 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-20" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-44"/>
+      <use xlink:href="#SimHei-59" x="50"/>
+      <use xlink:href="#SimHei-20" x="100"/>
+      <use xlink:href="#SimHei-5e73" x="150"/>
+      <use xlink:href="#SimHei-53f0" x="250"/>
+     </g>
+    </g>
+    <g id="line2d_107">
+     <path d="M 1053.174362 92.819531 
+L 1065.174362 92.819531 
+L 1077.174362 92.819531 
+" style="fill: none; stroke: #ff7f0e; stroke-width: 2; stroke-linecap: square"/>
+    </g>
+    <g id="text_27">
+     <!-- XHS 平台 -->
+     <g transform="translate(1086.774362 97.019531) scale(0.12 -0.12)">
+      <defs>
+       <path id="SimHei-58" d="M 3000 125 
+L 2400 125 
+L 1550 1875 
+L 700 125 
+L 100 125 
+L 1275 2375 
+L 225 4400 
+L 825 4400 
+L 1550 2850 
+L 2275 4400 
+L 2875 4400 
+L 1825 2375 
+L 3000 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-48" d="M 2850 125 
+L 2275 125 
+L 2275 2125 
+L 850 2125 
+L 850 125 
+L 275 125 
+L 275 4400 
+L 850 4400 
+L 850 2600 
+L 2275 2600 
+L 2275 4400 
+L 2850 4400 
+L 2850 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-53" d="M 2900 1325 
+Q 2900 750 2537 412 
+Q 2175 75 1550 75 
+Q 925 75 575 425 
+Q 225 775 225 1300 
+L 225 1475 
+L 800 1475 
+L 800 1325 
+Q 800 950 1025 750 
+Q 1250 550 1550 550 
+Q 1950 550 2137 762 
+Q 2325 975 2325 1275 
+Q 2325 1525 2100 1737 
+Q 1875 1950 1450 2125 
+Q 850 2350 587 2625 
+Q 325 2900 325 3275 
+Q 325 3800 687 4125 
+Q 1050 4450 1550 4450 
+Q 2200 4450 2487 4062 
+Q 2775 3675 2775 3225 
+L 2200 3225 
+Q 2225 3500 2050 3725 
+Q 1875 3950 1550 3950 
+Q 1250 3950 1075 3787 
+Q 900 3625 900 3350 
+Q 900 3125 1037 2962 
+Q 1175 2800 1750 2575 
+Q 2300 2350 2600 2037 
+Q 2900 1725 2900 1325 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-58"/>
+      <use xlink:href="#SimHei-48" x="50"/>
+      <use xlink:href="#SimHei-53" x="100"/>
+      <use xlink:href="#SimHei-20" x="150"/>
+      <use xlink:href="#SimHei-5e73" x="200"/>
+      <use xlink:href="#SimHei-53f0" x="300"/>
+     </g>
+    </g>
+    <g id="line2d_108">
+     <path d="M 1053.174362 109.835156 
+L 1065.174362 109.835156 
+L 1077.174362 109.835156 
+" style="fill: none; stroke: #008000; stroke-width: 2; stroke-linecap: square"/>
+    </g>
+    <g id="text_28">
+     <!-- TIEBA 平台 -->
+     <g transform="translate(1086.774362 114.035156) scale(0.12 -0.12)">
+      <defs>
+       <path id="SimHei-54" d="M 2850 3925 
+L 1850 3925 
+L 1850 125 
+L 1275 125 
+L 1275 3925 
+L 275 3925 
+L 275 4400 
+L 2850 4400 
+L 2850 3925 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-49" d="M 1850 125 
+L 1275 125 
+L 1275 4400 
+L 1850 4400 
+L 1850 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-45" d="M 2900 125 
+L 350 125 
+L 350 4400 
+L 2775 4400 
+L 2775 3925 
+L 925 3925 
+L 925 2600 
+L 2625 2600 
+L 2625 2125 
+L 925 2125 
+L 925 600 
+L 2900 600 
+L 2900 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-42" d="M 2950 1400 
+Q 2950 675 2550 400 
+Q 2150 125 1525 125 
+L 275 125 
+L 275 4400 
+L 1575 4400 
+Q 2200 4400 2512 4075 
+Q 2825 3750 2825 3300 
+Q 2825 2850 2612 2637 
+Q 2400 2425 2175 2350 
+Q 2475 2275 2712 2037 
+Q 2950 1800 2950 1400 
+z
+M 2250 3300 
+Q 2250 3625 2062 3775 
+Q 1875 3925 1600 3925 
+L 850 3925 
+L 850 2600 
+L 1575 2600 
+Q 1850 2600 2050 2762 
+Q 2250 2925 2250 3300 
+z
+M 2350 1400 
+Q 2350 1800 2087 1962 
+Q 1825 2125 1500 2125 
+L 850 2125 
+L 850 600 
+L 1425 600 
+Q 1875 600 2112 775 
+Q 2350 950 2350 1400 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-41" d="M 3075 125 
+L 2475 125 
+L 2125 1450 
+L 1025 1450 
+L 675 125 
+L 75 125 
+L 1325 4450 
+L 1825 4450 
+L 3075 125 
+z
+M 2000 1925 
+L 1600 3450 
+L 1550 3450 
+L 1150 1925 
+L 2000 1925 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-54"/>
+      <use xlink:href="#SimHei-49" x="50"/>
+      <use xlink:href="#SimHei-45" x="100"/>
+      <use xlink:href="#SimHei-42" x="150"/>
+      <use xlink:href="#SimHei-41" x="200"/>
+      <use xlink:href="#SimHei-20" x="250"/>
+      <use xlink:href="#SimHei-5e73" x="300"/>
+      <use xlink:href="#SimHei-53f0" x="400"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2c93a2d5de">
+   <rect x="59.300147" y="41.754687" width="963.79825" height="526.905041"/>
+  </clipPath>
+ </defs>
+</svg>
